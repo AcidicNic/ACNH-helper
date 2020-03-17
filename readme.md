@@ -2,4 +2,4 @@
 
 An iOS companion app for Animal Crossing: New Horizons
 
-###[Proposal](proposal.md)
+### [Proposal](proposal.md)
