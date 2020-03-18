@@ -1,0 +1,84 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <script src="https://kit.fontawesome.com/e7c15fdb77.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://bootswatch.com/4/minty/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'base.css' %}">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+
+    {# Collapsable Hamburger Navbar#}
+    <div class="main_wrapper">
+        <div class="pos-f-t sticky-top mb-4" id="navbar">
+            <nav class="navbar navbar-dark bg-primary">
+                <div class='d-flex justify-content-between w-100'>
+                    <div class="d-flex justify-content-start">
+
+                        <span>
+                            <button class="navbar-toggler my-2" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                        </span>
+
+                        {# Heading #}
+                        <a class='h1 no_ul text-white mx-3 title' href='/'>Island Tracker (Nook Inc.) </a>
+                    </div>
+
+                    {#Buttons#}
+                    <div class="d-flex justify-content-end my-2">
+
+                        {% if user.is_authenticated %}
+                            <div class="btn-group ml-3">
+                                <button type="button" class="btn btn-light dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <strong>{{ user.username }}</strong>! {% if user.is_superuser %}(admin){% endif %}
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="{% url 'show_profile' user %}">Profile</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="/accounts/logout" class="btn btn-danger ml-3">Log Out</a>
+                                </div>
+                            </div>
+
+                        {% else %}
+                            <div class="text-white align-middle my-2">Welcome!</div>
+
+                            <span>
+                                <a href="/accounts/login" class="btn btn-primary ml-3">Log In</a>
+                            </span>
+                            <span>
+                                <a href="/accounts/signup" class="btn bg-blue ml-3">Sign Up</a>
+                            </span>
+                        {% endif %}
+                    </div>
+                </div>
+            </nav>
+            <div class="collapse" id="navbarToggleExternalContent">
+                <div class="bg-dark text-white px-4 pb-4 pt-3">
+                    This dropdown navbar is still under construction :)
+                </div>
+            </div>
+            </div>
+
+        <!-- Content -->
+        <div class="content_wrapper">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </div>
+
+    <!-- Footer!! -->
+    <footer id="footer" class="w-100 text-center p-4 bg-light">
+        <div class="d-flex justify-content-center w-100 my-auto">
+            <span class="text-muted mx-3">Animal Crossing: New Horizons Tracker!</span>
+            <a class="no_ul text-muted mx-3" href="https://github.com/AcidicNic"><i class="fab fa-github"></i> AcidicNic</a>
+        </div>
+    </footer>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</body>
+</html>

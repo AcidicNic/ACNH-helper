@@ -1,0 +1,902 @@
+{
+    "bugs": [
+        {
+            "name": "Bagworm",
+            "img_url": null,
+            "data": {
+                "October to March  ( Animal Crossing ) October to February  ( City Folk  New Leaf )": "Time of day",
+                "All Day ( Animal Crossing  City Folk - Nov-Feb) 5pm to 8am ( City Folk - Oct)": "Location",
+                "In trees": "Size",
+                "50 mm": "Rarity",
+                "Common": "Selling price",
+                "250 Bells  ( Animal Crossing ) 300 Bells ( City Folk  New Leaf )": "Main Appearances",
+                "DnM": "AC",
+                "DnMe+": "WW",
+                "CF": "NL",
+                "NH": "Other Appearances"
+            }
+        },
+        {
+            "name": "Bee",
+            "img_url": "https://nookipedia.com/w/images/3/34/Bee.jpg",
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "In trees",
+                "Size": "38 mm",
+                "Rarity": "Very Common",
+                "Selling price": "4500 Bells ( Animal Forest Animal Forest + Animal Crossing Animal Forest e+ Wild World ) 2500 Bells ( City Folk New Leaf )"
+            }
+        },
+        {
+            "name": "Brown Cicada",
+            "img_url": null,
+            "data": {
+                "Time of year": "July to August",
+                "Time of day": "8 A.M. to 5 P.M.",
+                "Location": "On trees",
+                "Size": "58 mm",
+                "Rarity": "Very common",
+                "Selling price": "200 Bells"
+            }
+        },
+        {
+            "name": "Centipede",
+            "img_url": "https://nookipedia.com/w/images/6/66/Centipede.jpg",
+            "data": {
+                "Time of year": "June to February",
+                "Time of day": "4pm to 11pm",
+                "Location": "Under rocks",
+                "Size": "65 mm",
+                "Rarity": "Rare",
+                "Selling price": "300 Bells"
+            }
+        },
+        {
+            "name": "Cicada Shell",
+            "img_url": null,
+            "data": {
+                "Time of day": "All day",
+                "Location": "On trees",
+                "Size": "18mm",
+                "Rarity": "Very common",
+                "Selling price": "100 Bells"
+            }
+        },
+        {
+            "name": "Common Butterfly",
+            "img_url": "https://nookipedia.com/w/images/3/36/Common_Butterfly.jpg",
+            "data": {
+                "Time of year": "March to October ( Animal Crossing ) March to September ( Wild World ) March to June September ( City Folk )",
+                "Time of day": "8am to 5pm ( GCN ) 4am to 7pm ( WW ) 4am to 7pm ( CF March-June) 8am to 4pm ( CF September)",
+                "Location": "Flying Anywhere (AF) Near flowers (AC WW CF NL)",
+                "Size": "50 mm",
+                "Rarity": "Common",
+                "Selling price": "80 Bells ( AC PAL Wild World ) 90 Bells ( WW CF )"
+            }
+        },
+        {
+            "name": "Darner Dragonfly",
+            "img_url": null,
+            "data": {
+                "Time of year": "June to August",
+                "Time of day": "8am to 5pm",
+                "Location": "Flying",
+                "Size": "76 mm",
+                "Rarity": "Common",
+                "Selling price": "200 Bells"
+            }
+        },
+        {
+            "name": "Diving Beetle",
+            "img_url": null,
+            "data": {
+                "Time of year": "May to September",
+                "Time of day": "8am to 5pm",
+                "Location": "In freshwater",
+                "Size": "38 mm",
+                "Rarity": "Uncommon",
+                "Selling price": "800 Bells"
+            }
+        },
+        {
+            "name": "Drone Beetle",
+            "img_url": null,
+            "data": {
+                "Time of year": "July to August",
+                "Time of day": "All day",
+                "Location": "On trees",
+                "Rarity": "Common",
+                "Selling price": "80 Bells"
+            }
+        },
+        {
+            "name": "Dung Beetle",
+            "img_url": "https://nookipedia.com/w/images/5/5b/Dung_Beetle.jpg",
+            "data": {
+                "Time of year": "March to October ( Animal Forest e+ ) December to February ( Wild World City Folk New Leaf )",
+                "Time of day": "7 PM to 8 AM ( Animal Forest e+ ) 5 PM to 8 AM ( Wild World City Folk New Leaf )",
+                "Location": "Rolling snowballs (settled snow only)",
+                "Size": "35 mm",
+                "Rarity": "Rare ( Animal Forest e+ ) Uncommon ( Wild World City Folk New Leaf )",
+                "Selling price": "400 Bells ( Animal Forest e+ ) 800 Bells ( Wild World City Folk New Leaf )"
+            }
+        },
+        {
+            "name": "Emperor Butterfly",
+            "img_url": null,
+            "data": {
+                "Time of year": "June to September",
+                "Time of day": "8am to 5pm ( Animal Crossing: Wild World ) 7pm to 8am ( Animal Crossing: City Folk Animal Crossing: New Leaf )",
+                "Location": "Near flowers / Tortimer Island",
+                "Size": "115 mm",
+                "Rarity": "Uncommon Very Rare ( Pocket Camp )",
+                "Selling price": "2500 Bells"
+            }
+        },
+        {
+            "name": "Firefly",
+            "img_url": "https://nookipedia.com/w/images/f/f2/Firefly.jpg",
+            "data": {
+                "Time of year": "June",
+                "Time of day": "8pm to 4am",
+                "Location": "Near fresh water",
+                "Size": "15 mm",
+                "Rarity": "Very common",
+                "Selling price": "300 Bells"
+            }
+        },
+        {
+            "name": "Fruit Beetle",
+            "img_url": null,
+            "data": {
+                "Time of year": "July to September",
+                "Time of day": "All day",
+                "Location": "On trees",
+                "Size": "23 mm",
+                "Rarity": "Very common",
+                "Selling price": "100 Bells"
+            }
+        },
+        {
+            "name": "Giant Cicada",
+            "img_url": null,
+            "data": {
+                "Time of day": "8am to 5pm",
+                "Location": "On trees",
+                "Size": "62mm",
+                "Rarity": "Uncommon",
+                "Selling price": "500 Bells"
+            }
+        },
+        {
+            "name": "Giant Stag",
+            "img_url": null,
+            "data": {
+                "Time of year": "July to August ( Animal Forest ) June to August ( Wild World City Folk )",
+                "Time of day": "11pm to 8am",
+                "Location": "On trees",
+                "Size": "60 mm",
+                "Rarity": "Rare",
+                "Selling price": "10000 Bells"
+            }
+        },
+        {
+            "name": "Goliath Beetle",
+            "img_url": null,
+            "data": {
+                "Time of year": "June to August",
+                "Time of day": "7 p.m. to 8 a.m.",
+                "Location": "On palm trees",
+                "Size": "90 mm",
+                "Rarity": "Uncommon ( New Leaf - On Island ) Rare ( Wild World City Folk New Leaf - In Town )",
+                "Selling price": "6000 Bells"
+            }
+        },
+        {
+            "name": "Grasshopper",
+            "img_url": "https://nookipedia.com/w/images/1/13/Grasshopper.jpg",
+            "data": {
+                "Time of day": "8am to 5pm ( Animal Forest New Leaf ) 7am to 8pm ( Animal Crossing Wild World City Folk )",
+                "Location": "On the ground",
+                "Size": "43 mm",
+                "Rarity": "Common",
+                "Selling price": "130 Bells ( Animal Forest ) 160 Bells ( Animal Crossing Wild World City Folk New Leaf )"
+            }
+        },
+        {
+            "name": "Honeybee",
+            "img_url": "https://nookipedia.com/w/images/6/6d/Honeybee.jpg",
+            "data": {
+                "Time of year": "March to August ( Wild World ) March to July ( City Folk )",
+                "Time of day": "9am to 4pm ( Wild World ) 8am to 5pm ( City Folk )",
+                "Location": "Near flowers",
+                "Size": "13 mm",
+                "Rarity": "Very common",
+                "Selling price": "100 Bells"
+            }
+        },
+        {
+            "name": "Horned Dynastid",
+            "img_url": null,
+            "data": {
+                "Time of year": "July to August",
+                "Time of day": "5pm to 8am",
+                "Location": "On trees",
+                "Size": "80 mm",
+                "Rarity": "Common ( Dōbutsu no Mori Dōbutsu no Mori + Animal Crossing Dōbutsu no Mori e+ New Leaf - On Island ) Uncommon ( Wild World City Folk New Leaf - In Town ) Rare ( Pocket Camp )",
+                "Selling price": "1350 Bells"
+            }
+        },
+        {
+            "name": "Ladybug",
+            "img_url": "https://nookipedia.com/w/images/4/42/Ladybug.jpg",
+            "data": {
+                "Time of year": "March to July ( Animal Forest Animal Crossing ) March to June ( Wild World City Folk ) October (all games)",
+                "Time of day": "8am to 5pm",
+                "Location": "On flowers",
+                "Size": "8 mm",
+                "Rarity": "Common",
+                "Selling price": "200 Bells"
+            }
+        },
+        {
+            "name": "Long Locust",
+            "img_url": null,
+            "data": {
+                "Time of year": "August to October and November (Animal Forest) August to November ( Wild World ) May to November ( City Folk New Leaf )",
+                "Time of day": "8am to 7pm",
+                "Location": "Grass",
+                "Size": "73 mm",
+                "Rarity": "Common",
+                "Selling price": "200 Bells"
+            }
+        },
+        {
+            "name": "Mantis",
+            "img_url": "https://nookipedia.com/w/images/7/74/Mantis.jpg",
+            "data": {
+                "Time of year": "August to October ( Animal Forest Animal Crossing ) August to November ( Wild World ) April to June ( City Folk ) April to November ( New Leaf )",
+                "Time of day": "8am to 5pm",
+                "Location": "On flowers",
+                "Size": "82mm",
+                "Rarity": "Uncommon",
+                "Selling price": "430 Bells"
+            }
+        },
+        {
+            "name": "Migratory Locust",
+            "img_url": null,
+            "data": {
+                "Time of year": "September to November ( Animal Forest Wild World ) August to November ( City Folk New Leaf )",
+                "Time of day": "8am to 5pm (November Animal Forest ) 8am to 7pm (All games)",
+                "Location": "Grass",
+                "Size": "58 mm",
+                "Rarity": "Uncommon",
+                "Selling price": "1350 Bells ( Animal Forest ) 600 Bells ( City Folk New Leaf ) 800 Bells ( Wild World )"
+            }
+        },
+        {
+            "name": "Monarch Butterfly",
+            "img_url": null,
+            "data": {
+                "Time of year": "September to November",
+                "Time of day": "8am to 5pm",
+                "Location": "Flying",
+                "Size": "85 mm",
+                "Rarity": "Very Common",
+                "Selling price": "90 Bells"
+            }
+        },
+        {
+            "name": "Moth",
+            "img_url": "https://nookipedia.com/w/images/a/a5/Moth.jpg",
+            "data": {
+                "Time of year": "May to September",
+                "Time of day": "7pm to 4am",
+                "Location": "Near outside lights",
+                "Size": "60 mm",
+                "Selling price": "60 Bells"
+            }
+        },
+        {
+            "name": "Orchid Mantis",
+            "img_url": null,
+            "data": {
+                "Time of year": "August to November ( Wild World ) April to November ( City Folk New Leaf )",
+                "Time of day": "8am to 5pm",
+                "Location": "On White Flowers",
+                "Size": "35mm",
+                "Rarity": "Rare",
+                "Selling price": "2400 Bells"
+            }
+        },
+        {
+            "name": "Pill Bug",
+            "img_url": null,
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "Under rocks",
+                "Size": "2 mm",
+                "Rarity": "Common",
+                "Selling price": "250 Bells"
+            }
+        },
+        {
+            "name": "Pondskater",
+            "img_url": "https://nookipedia.com/w/images/3/30/Pondskater.jpg",
+            "data": {
+                "Time of year": "June to September ( Wild World ) May to September ( City Folk )",
+                "Time of day": "8am to 7pm",
+                "Location": "In ponds and waterfall pools",
+                "Size": "14 mm",
+                "Selling price": "130 Bells"
+            }
+        },
+        {
+            "name": "Purple Butterfly",
+            "img_url": null,
+            "data": {
+                "Time of year": "June to August",
+                "Time of day": "8AM to 5PM",
+                "Location": "Flying",
+                "Size": "50-65 mm",
+                "Rarity": "Rare",
+                "Selling price": "2000 Bells"
+            }
+        },
+        {
+            "name": "Raja Brooke Butterfly",
+            "img_url": null,
+            "data": {
+                "Time of year": "May to August",
+                "Time of day": "8am to 5pm ( May ) 8am to 7pm ( June ) 8am to 5pm ( July )",
+                "Location": "Near Freshwater",
+                "Size": "140 mm",
+                "Rarity": "Uncommon",
+                "Selling price": "2500 Bells"
+            }
+        },
+        {
+            "name": "Red Dragonfly",
+            "img_url": null,
+            "data": {
+                "Time of year": "September to October ( Animal Forest New Leaf ) September to November ( Animal Crossing Wild World City Folk )",
+                "Time of day": "8am to 7pm",
+                "Location": "Flying",
+                "Size": "38 mm",
+                "Rarity": "Common",
+                "Selling price": "80 Bells"
+            }
+        },
+        {
+            "name": "Scorpion",
+            "img_url": "https://nookipedia.com/w/images/d/d2/Scorpion.jpg",
+            "data": {
+                "Time of year": "July to September",
+                "Time of day": "7pm to 4am",
+                "Location": "On the ground",
+                "Size": "160 mm",
+                "Rarity": "Rare",
+                "Selling price": "8000 Bells"
+            }
+        },
+        {
+            "name": "Snail",
+            "img_url": "https://nookipedia.com/w/images/c/cc/Snail.jpg",
+            "data": {
+                "Time of year": "April to September",
+                "Time of day": "All day",
+                "Location": "On flowers (when raining ) AC WW CF On Hibiscus Bushes (when raining) NL",
+                "Size": "52 mm",
+                "Rarity": "Very common",
+                "Selling price": "250 Bells"
+            }
+        },
+        {
+            "name": "Stinkbug",
+            "img_url": null,
+            "data": {
+                "Time of year": "April to October",
+                "Time of day": "All day",
+                "Location": "On trees",
+                "Size": "15 mm",
+                "Rarity": "Common",
+                "Selling price": "120 Bells"
+            }
+        },
+        {
+            "name": "Tarantula",
+            "img_url": "https://nookipedia.com/w/images/0/01/Tarantula.jpg",
+            "data": {
+                "Time of year": "June to August",
+                "Time of day": "7 pm to 4 am",
+                "Location": "On the ground",
+                "Size": "65 mm",
+                "Rarity": "Rare",
+                "Selling price": "8000 Bells"
+            }
+        },
+        {
+            "name": "Tiger Butterfly",
+            "img_url": "https://nookipedia.com/w/images/d/d3/Tiger_Butterfly.jpg",
+            "data": {
+                "Time of year": "April to September ( Animal Crossing ) March to September ( Wild World City Folk )",
+                "Time of day": "4am to 7pm ( March to June - City Folk ) 8am to 5pm ( Animal Crossing Wild World ) July to August - ( City Folk ) 8am to 4pm ( September - City Folk )",
+                "Location": "Near red flowers",
+                "Size": "90 mm",
+                "Rarity": "Common",
+                "Selling price": "200 Bells ( Animal Crossing ) 160 Bells ( Wild World City Folk New Leaf )"
+            }
+        },
+        {
+            "name": "Yellow Butterfly",
+            "img_url": "https://nookipedia.com/w/images/6/60/Yellow_Butterfly.jpg",
+            "data": {
+                "Time of year": "March to October ( Animal Crossing ) March to September ( Wild World ) March to June September ( City Folk )",
+                "Time of day": "4am to 7pm ( City Folk - March to June) 8am to 4pm ( Wild World City Folk - September) 8am to 5pm ( Animal Crossing )",
+                "Location": "Flying Anywhere (AF) Near flowers (AC WW CF NL)",
+                "Size": "50 mm",
+                "Rarity": "Very Common",
+                "Selling price": "80 Bells ( Animal Crossing PAL Wild World ) 90 Bells ( Wild World City Folk New Leaf )"
+            }
+        }
+    ],
+    "fish": [
+        {
+            "name": "Arowana",
+            "img_url": "https://nookipedia.com/w/images/b/b4/Arowana.jpg",
+            "data": {
+                "Time of year": "June to Mid-September ( Animal Forest Wild World ) June to September ( Animal Crossing City Folk New Leaf )",
+                "Time of day": "4 pm to 9 am",
+                "Location": "River",
+                "Size": "About 70 cm",
+                "Shadow size": "Medium",
+                "Rarity": "Rare",
+                "Selling price": "10000 Bells"
+            }
+        },
+        {
+            "name": "Barred Knifejaw",
+            "img_url": "https://nookipedia.com/w/images/4/47/Barred_Knifejaw.jpg",
+            "data": {
+                "Time of year": "March to November",
+                "Time of day": "All day ( Wild World City Folk New Leaf ) 4pm to 9am ( Animal Crossing )",
+                "Location": "Ocean",
+                "Size": "About 60 cm",
+                "Shadow size": "Large ( Animal Crossing ) Medium ( Wild World City Folk New Leaf )",
+                "Rarity": "Rare",
+                "Selling price": "5000 Bells"
+            }
+        },
+        {
+            "name": "Bitterling",
+            "img_url": "https://nookipedia.com/w/images/8/85/Bitterling.jpg",
+            "data": {
+                "Time of year": "December to February ( Animal Crossing ) November to February ( Wild World City Folk New Leaf )",
+                "Time of day": "All day",
+                "Location": "River",
+                "Size": "11 cm",
+                "Shadow size": "Tiny",
+                "Rarity": "Common",
+                "Selling price": "900 Bells ( Wild World City Folk New Leaf ) 1300 Bells ( Animal Crossing ) 700 Bells (PAL Wild World )"
+            }
+        },
+        {
+            "name": "Black Bass",
+            "img_url": null,
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "River",
+                "Size": "3.2 feet (1 meter)",
+                "Shadow size": "Large",
+                "Rarity": "Very Common Uncommon ( Pocket Camp )",
+                "Selling price": "300 Bells"
+            }
+        },
+        {
+            "name": "Bluegill",
+            "img_url": "https://nookipedia.com/w/images/4/41/Bluegill.jpg",
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "9 am to 4 pm",
+                "Location": "River",
+                "Size": "About 25 cm",
+                "Shadow size": "Small",
+                "Rarity": "Uncommon",
+                "Selling price": "120 Bells"
+            }
+        },
+        {
+            "name": "Butterfly Fish",
+            "img_url": null,
+            "data": {
+                "Time of year": "April to September",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "About 18 cm",
+                "Shadow size": "Small",
+                "Rarity": "Uncommon",
+                "Selling price": "1000 Bells"
+            }
+        },
+        {
+            "name": "Carp",
+            "img_url": "https://nookipedia.com/w/images/f/f3/Carp.jpg",
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "River",
+                "Size": "About 75 cm",
+                "Shadow size": "Medium",
+                "Rarity": "Very Common",
+                "Selling price": "300 Bells"
+            }
+        },
+        {
+            "name": "Cherry Salmon",
+            "img_url": null,
+            "data": {
+                "Time of year": "March to June September to November",
+                "Time of day": "4 am to 9 am 4 pm to 9 pm (Mar-Jun) 4 am to 9 pm (Sept-Nov)",
+                "Location": "River",
+                "Size": "35 cm",
+                "Shadow size": "Small-Medium",
+                "Rarity": "Common",
+                "Selling price": "1300 Bells ( Animal Crossing PAL Wild World ) 1000 Bells ( Wild World City Folk New Leaf )"
+            }
+        },
+        {
+            "name": "Clownfish",
+            "img_url": "https://nookipedia.com/w/images/e/e0/Clownfish.jpg",
+            "data": {
+                "Time of year": "April to September",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "15 cm",
+                "Shadow size": "Tiny",
+                "Rarity": "Uncommon",
+                "Selling price": "650 Bells"
+            }
+        },
+        {
+            "name": "Crawfish",
+            "img_url": "https://nookipedia.com/w/images/9/9a/Crawfish.jpg",
+            "data": {
+                "Time of year": "April to Mid-September",
+                "Time of day": "All day",
+                "Location": "Holding Pond",
+                "Size": "12.2 cm",
+                "Shadow size": "Small",
+                "Rarity": "Common Rare (Pocket Camp)",
+                "Selling price": "200 Bells 250 Bells (PAL Wild World )"
+            }
+        },
+        {
+            "name": "Crucian Carp",
+            "img_url": null,
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "River",
+                "Size": "About 30 cm",
+                "Shadow size": "Small",
+                "Rarity": "Common",
+                "Selling price": "120 Bells"
+            }
+        },
+        {
+            "name": "Dab",
+            "img_url": "https://nookipedia.com/w/images/7/7c/Dab.jpg",
+            "data": {
+                "Time of year": "October to April",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "50 cm",
+                "Shadow size": "Medium",
+                "Rarity": "Common",
+                "Selling price": "300 Bells 200 Bells (PAL Wild World )"
+            }
+        },
+        {
+            "name": "Dace",
+            "img_url": "https://nookipedia.com/w/images/4/4a/Dace.jpg",
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "4 pm to 9 am",
+                "Location": "River",
+                "Size": "36 cm",
+                "Shadow size": "Medium",
+                "Rarity": "Common",
+                "Selling price": "200 Bells"
+            }
+        },
+        {
+            "name": "Goldfish",
+            "img_url": "https://nookipedia.com/w/images/7/75/Goldfish.jpg",
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "River",
+                "Size": "15 cm",
+                "Shadow size": "Tiny",
+                "Rarity": "Rare",
+                "Selling price": "1300 Bells"
+            }
+        },
+        {
+            "name": "Horse Mackerel",
+            "img_url": null,
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "35 cm",
+                "Shadow size": "Small",
+                "Rarity": "Very Common",
+                "Selling price": "120 Bells ( Animal Forest e+ PAL Wild World ) 150 Bells ( Wild World City Folk New Leaf amiibo Festival )"
+            }
+        },
+        {
+            "name": "Koi",
+            "img_url": "https://nookipedia.com/w/images/5/59/Koi.jpg",
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "4 pm to 9 am",
+                "Location": "River",
+                "Size": "120 cm",
+                "Shadow size": "Medium",
+                "Rarity": "Rare Very Rare (Pocket Camp)",
+                "Selling price": "2000 Bells ( Animal Crossing Wild World ) 4000 Bells ( City Folk New Leaf )"
+            }
+        },
+        {
+            "name": "Loach",
+            "img_url": "https://nookipedia.com/w/images/3/30/Loach.jpg",
+            "data": {
+                "Time of year": "March to May",
+                "Time of day": "All day",
+                "Location": "River",
+                "Size": "20 cm",
+                "Shadow size": "Small/Medium",
+                "Rarity": "Common Rare (Pocket Camp)",
+                "Selling price": "300 Bells"
+            }
+        },
+        {
+            "name": "Neon Tetra",
+            "img_url": null,
+            "data": {
+                "Time of year": "April to November",
+                "Time of day": "9 am to 4 pm",
+                "Location": "River",
+                "Size": "2 cm",
+                "Shadow size": "Tiny",
+                "Rarity": "Uncommon Rare (Pocket Camp)",
+                "Selling price": "500 Bells"
+            }
+        },
+        {
+            "name": "Nibble Fish",
+            "img_url": null,
+            "data": {
+                "Time of year": "May to September",
+                "Time of day": "9 am to 4 pm",
+                "Location": "River",
+                "Size": "3 in.",
+                "Shadow size": "Small",
+                "Selling price": "1500 Bells"
+            }
+        },
+        {
+            "name": "Oarfish",
+            "img_url": null,
+            "data": {
+                "Time of year": "December to May",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "120 cm",
+                "Shadow size": "Huge",
+                "Rarity": "Rare",
+                "Selling price": "9000 Bells"
+            }
+        },
+        {
+            "name": "Olive Flounder",
+            "img_url": null,
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "80 cm",
+                "Shadow size": "Large",
+                "Rarity": "Uncommon Common ( Pocket Camp )",
+                "Selling price": "800 Bells"
+            }
+        },
+        {
+            "name": "Pale Chub",
+            "img_url": null,
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "9 am to 4 pm",
+                "Location": "River",
+                "Size": "8 to 12 cm",
+                "Shadow size": "Tiny",
+                "Rarity": "Common",
+                "Selling price": "200 Bells ( Animal Crossing Wild World City Folk ) 160 Bells ( New Leaf )"
+            }
+        },
+        {
+            "name": "Pike",
+            "img_url": "https://nookipedia.com/w/images/0/0d/Pike.jpg",
+            "data": {
+                "Time of year": "September to December",
+                "Time of day": "4 am to 9 pm",
+                "Location": "River",
+                "Size": "160 cm",
+                "Shadow size": "Very Large",
+                "Rarity": "Uncommon",
+                "Selling price": "1800 Bells"
+            }
+        },
+        {
+            "name": "Pond Smelt",
+            "img_url": null,
+            "data": {
+                "Time of year": "December to February",
+                "Time of day": "All day",
+                "Location": "Lake ( Wild World ) River (other games)",
+                "Size": "20 cm",
+                "Shadow size": "Small",
+                "Rarity": "Very common",
+                "Selling price": "300 Bells"
+            }
+        },
+        {
+            "name": "Puffer Fish",
+            "img_url": null,
+            "data": {
+                "Time of year": "July to September",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "35 cm (14 in)",
+                "Shadow size": "Medium",
+                "Rarity": "Uncommon",
+                "Selling price": "200 Bells ( Animal Forest e+ ) 240 Bells ( Wild World City Folk New Leaf )"
+            }
+        },
+        {
+            "name": "Red Snapper",
+            "img_url": null,
+            "data": {
+                "Time of year": "All year",
+                "Time of day": "All day ( Animal Crossing: Wild World Animal Crossing: City Folk Animal Crossing: New Leaf ) 4pm to 9am ( Animal Crossing )",
+                "Location": "Ocean",
+                "Size": "90 cm",
+                "Shadow size": "Medium ( Animal Crossing Animal Crossing: City Folk Animal Crossing: New Leaf ) Large ( Animal Crossing: Wild World )",
+                "Rarity": "Uncommon",
+                "Selling price": "3000 Bells"
+            }
+        },
+        {
+            "name": "Saddled Bichir",
+            "img_url": null,
+            "data": {
+                "Time of year": "June to September",
+                "Time of day": "9 pm to 4 am",
+                "Location": "River",
+                "Size": "60 cm",
+                "Shadow size": "Large",
+                "Rarity": "Rare",
+                "Selling price": "4000 Bells"
+            }
+        },
+        {
+            "name": "Sea Bass",
+            "img_url": null,
+            "data": {
+                "Time of year": "Mid-September to Mid-August ( Animal Crossing ) All year (other games)",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "0.99 m",
+                "Shadow size": "Very large",
+                "Rarity": "Very common",
+                "Selling price": "120 Bells ( Animal Crossing ) 160 Bells ( Wild World ) 140 Bells (PAL Wild World ) 200 Bells ( City Folk New Leaf amiibo Festival )"
+            }
+        },
+        {
+            "name": "Sea Butterfly",
+            "img_url": "https://nookipedia.com/w/images/8/86/Sea_Butterfly.jpg",
+            "data": {
+                "Time of year": "December to February",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "2 in (5 cm)",
+                "Shadow size": "Tiny",
+                "Rarity": "Common",
+                "Selling price": "1000 Bells"
+            }
+        },
+        {
+            "name": "Seahorse",
+            "img_url": "https://nookipedia.com/w/images/e/ee/Seahorse.jpg",
+            "data": {
+                "Time of year": "April to November",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "3.2 inches (8.1 cm)",
+                "Shadow size": "Tiny",
+                "Rarity": "Common Rare (Pocket Camp)",
+                "Selling price": "1100 Bells 1500 Bells (PAL Wild World )"
+            }
+        },
+        {
+            "name": "Soft-Shelled Turtle",
+            "img_url": null,
+            "data": {
+                "Time of year": "August to September",
+                "Time of day": "4 pm to 9 am",
+                "Location": "River",
+                "Size": "30 cm",
+                "Shadow size": "Medium",
+                "Rarity": "Uncommon",
+                "Selling price": "3750 Bells"
+            }
+        },
+        {
+            "name": "Squid",
+            "img_url": "https://nookipedia.com/w/images/d/d6/Squid.jpg",
+            "data": {
+                "Time of year": "December to Mid-August ( town ) All year ( Tortimer Island )",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "14 inches (36 cm)",
+                "Shadow size": "Small",
+                "Rarity": "Common",
+                "Selling price": "400 Bells"
+            }
+        },
+        {
+            "name": "Sweetfish",
+            "img_url": "https://nookipedia.com/w/images/d/d6/Sweetfish.jpg",
+            "data": {
+                "Time of year": "July to Mid-September",
+                "Time of day": "4 am to 9 pm",
+                "Location": "River",
+                "Size": "25 cm",
+                "Shadow size": "Small-Medium",
+                "Rarity": "Uncommon",
+                "Selling price": "1300 Bells ( Animal Forest Animal Crossing ) 900 Bells ( Wild World City Folk )"
+            }
+        },
+        {
+            "name": "Yellow Perch",
+            "img_url": null,
+            "data": {
+                "Time of year": "October to March",
+                "Time of day": "All day",
+                "Location": "River",
+                "Size": "35 cm",
+                "Shadow size": "Small-Medium",
+                "Rarity": "Common",
+                "Selling price": "240 Bells"
+            }
+        },
+        {
+            "name": "Zebra Turkeyfish",
+            "img_url": null,
+            "data": {
+                "Time of year": "April to November",
+                "Time of day": "All day",
+                "Location": "Ocean",
+                "Size": "11.7 inches (29.7 cm)",
+                "Shadow size": "Small",
+                "Rarity": "Common",
+                "Selling price": "400 Bells"
+            }
+        }
+    ]
+}

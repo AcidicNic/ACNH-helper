@@ -1,0 +1,7400 @@
+[
+    {
+        "name": "Admiral",
+        "img_url": null,
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "January 27th",
+            "clothes": [
+                "Orange Pinstripe",
+                "Brown-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "aye",
+                "aye"
+            ]
+        }
+    },
+    {
+        "name": "Agent S",
+        "img_url": "https://nookipedia.com/w/images/e/ef/Agent_S_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "July 2nd",
+            "clothes": [
+                "No. 2 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sidekick"
+            ]
+        }
+    },
+    {
+        "name": "Agnes",
+        "img_url": null,
+        "data": {
+            "species": "Pig",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "April 21st",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "suffle"
+            ]
+        }
+    },
+    {
+        "name": "Al",
+        "img_url": "https://nookipedia.com/w/images/1/14/Al_NLa.png",
+        "data": {
+            "species": "Gorilla",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 18th",
+            "clothes": [
+                "Red Warm-Up Suit"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hoo",
+                "hoo",
+                "ha",
+                "(",
+                "City",
+                "Folk",
+                ")",
+                "Ayyeeee",
+                "(",
+                "New",
+                "Leaf",
+                ")"
+            ]
+        }
+    },
+    {
+        "name": "Alfonso",
+        "img_url": "https://nookipedia.com/w/images/3/31/Alfonso_NLa.png",
+        "data": {
+            "species": "Alligator",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 9th",
+            "clothes": [
+                "Big Bro's Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "its",
+                "a",
+                "me",
+                "itsa",
+                "me"
+            ]
+        }
+    },
+    {
+        "name": "Alice",
+        "img_url": "https://nookipedia.com/w/images/7/7e/Alice_NLa.png",
+        "data": {
+            "species": "Koala",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "August 19th",
+            "clothes": [
+                "Barber Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "guvor"
+            ]
+        }
+    },
+    {
+        "name": "Alli",
+        "img_url": "https://nookipedia.com/w/images/3/34/Alli_NLa.png",
+        "data": {
+            "species": "Alligator",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 8th",
+            "clothes": [
+                "Leopard Shirt",
+                "Leopard Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "graaagh"
+            ]
+        }
+    },
+    {
+        "name": "Amelia",
+        "img_url": "https://nookipedia.com/w/images/5/54/Amelia_NLa.png",
+        "data": {
+            "species": "Eagle",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 19th",
+            "clothes": [
+                "Spiderweb Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "eaglet",
+                "NA",
+                "cuz",
+                "NA"
+            ]
+        }
+    },
+    {
+        "name": "Anabelle",
+        "img_url": "https://nookipedia.com/w/images/0/03/Anabelle_NLa.png",
+        "data": {
+            "species": "Anteater",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 16",
+            "clothes": [
+                "Tropical Shirt",
+                "Tropical Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sorty"
+            ]
+        }
+    },
+    {
+        "name": "Anchovy",
+        "img_url": "https://nookipedia.com/w/images/4/46/Anchovy_NLa.png",
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "March 4th",
+            "clothes": [
+                "Straw Shirt",
+                "Earthy Knit Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chuurp"
+            ]
+        }
+    },
+    {
+        "name": "Angus",
+        "img_url": "https://nookipedia.com/w/images/e/ef/Angus_NLa.png",
+        "data": {
+            "species": "Bull",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "April 30th",
+            "clothes": [
+                "Flame Shirt",
+                "Flame Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "macmoo"
+            ]
+        }
+    },
+    {
+        "name": "Anicotti",
+        "img_url": "https://nookipedia.com/w/images/b/bb/Anicotti_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 24th",
+            "clothes": [
+                "Desert Shirt",
+                "Peachy Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "caoli"
+            ]
+        }
+    },
+    {
+        "name": "Ankha",
+        "img_url": "https://nookipedia.com/w/images/7/7e/Ankha_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "September 22nd",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Egyptian Outfit",
+                "Mummy Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "me",
+                "meow"
+            ]
+        }
+    },
+    {
+        "name": "Annalisa",
+        "img_url": null,
+        "data": {
+            "species": "Anteater",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "February 6",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "gumdrop"
+            ]
+        }
+    },
+    {
+        "name": "Annalise",
+        "img_url": "https://nookipedia.com/w/images/5/53/Annalise_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "December 2nd",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Tropical Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ipper"
+            ]
+        }
+    },
+    {
+        "name": "Antonio",
+        "img_url": "https://nookipedia.com/w/images/2/25/Antonio_NLa.png",
+        "data": {
+            "species": "Anteater",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "October 20",
+            "clothes": [
+                "Big-Star Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hok"
+            ]
+        }
+    },
+    {
+        "name": "Apollo",
+        "img_url": "https://nookipedia.com/w/images/1/1c/Apollo_NLa.png",
+        "data": {
+            "species": "Eagle",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 4th",
+            "clothes": [
+                "Zip"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pah"
+            ]
+        }
+    },
+    {
+        "name": "Apple",
+        "img_url": null,
+        "data": {
+            "species": "Hamster",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "September 24th",
+            "clothes": [
+                "Lite "
+            ],
+            "starsign": null,
+            "phrase": [
+                "cheekers"
+            ]
+        }
+    },
+    {
+        "name": "Astrid",
+        "img_url": "https://nookipedia.com/w/images/6/63/Astrid_NLa.png",
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "September 8th",
+            "clothes": [
+                "Star Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "my",
+                "pet"
+            ]
+        }
+    },
+    {
+        "name": "Audie",
+        "img_url": null,
+        "data": {
+            "species": "Wolf",
+            "gender": "Female",
+            "personality": "Peppy[1]",
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Aurora",
+        "img_url": "https://nookipedia.com/w/images/e/e4/Aurora_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "January 27th",
+            "clothes": [
+                "Classic Top",
+                "Pink Tartan",
+                "Pink Tartan Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "b-b-baby"
+            ]
+        }
+    },
+    {
+        "name": "Ava",
+        "img_url": "https://nookipedia.com/w/images/c/c8/Ava_NLa.png",
+        "data": {
+            "species": "Chicken",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "April 28th",
+            "clothes": [
+                "Checker"
+            ],
+            "starsign": null,
+            "phrase": [
+                "beaker"
+            ]
+        }
+    },
+    {
+        "name": "Avery",
+        "img_url": "https://nookipedia.com/w/images/6/6b/Avery_NLa.png",
+        "data": {
+            "species": "Eagle",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "February 22nd",
+            "clothes": [
+                "Uncom"
+            ],
+            "starsign": null,
+            "phrase": [
+                "skree-haw"
+            ]
+        }
+    },
+    {
+        "name": "Axel",
+        "img_url": "https://nookipedia.com/w/images/e/e1/Axel_NLa.png",
+        "data": {
+            "species": "Elephant",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "March 23rd",
+            "clothes": [
+                "Fresh Shirt",
+                "Fresh Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "WHONK"
+            ]
+        }
+    },
+    {
+        "name": "Baabara",
+        "img_url": "https://nookipedia.com/w/images/2/2e/Baabara_NLa.png",
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "March 28th",
+            "clothes": [
+                "Purple Tie-Dye",
+                "Purple Tie-Dye Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "daahlig"
+            ]
+        }
+    },
+    {
+        "name": "Bam",
+        "img_url": null,
+        "data": {
+            "species": "Deer",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "November 7th",
+            "clothes": [
+                "Green Warm"
+            ],
+            "starsign": null,
+            "phrase": [
+                "boosh",
+                "NA",
+                "prag",
+                "EU"
+            ]
+        }
+    },
+    {
+        "name": "Bangle",
+        "img_url": "https://nookipedia.com/w/images/9/93/Bangle_NLa.png",
+        "data": {
+            "species": "Tiger",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "August 27th",
+            "clothes": [
+                "Pop Bloom Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "growf"
+            ]
+        }
+    },
+    {
+        "name": "Barold",
+        "img_url": null,
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "March 2nd",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "cubby"
+            ]
+        }
+    },
+    {
+        "name": "Bea",
+        "img_url": null,
+        "data": {
+            "species": "Dog",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "October 15th",
+            "clothes": [
+                "Go"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bigo"
+            ]
+        }
+    },
+    {
+        "name": "Beardo",
+        "img_url": null,
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "September 27",
+            "clothes": [
+                "Detecti"
+            ],
+            "starsign": null,
+            "phrase": [
+                "whiskers"
+            ]
+        }
+    },
+    {
+        "name": "Beau",
+        "img_url": "https://nookipedia.com/w/images/0/09/Beau_NLa.png",
+        "data": {
+            "species": "Deer",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "April 5th",
+            "clothes": [
+                "D"
+            ],
+            "starsign": null,
+            "phrase": [
+                "saltlick"
+            ]
+        }
+    },
+    {
+        "name": "Becky",
+        "img_url": "https://nookipedia.com/w/images/0/09/Becky_NLa.png",
+        "data": {
+            "species": "Chicken",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "December 9th",
+            "clothes": [
+                "Kaffe's Shirt\", '*', 'Noble Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chicklet"
+            ]
+        }
+    },
+    {
+        "name": "Bella",
+        "img_url": "https://nookipedia.com/w/images/1/1b/Bella_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "December 28th",
+            "clothes": [
+                "Skull Shirt",
+                "Skull Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ギャハッ",
+                "(JP)",
+                "eeks",
+                "(EN)"
+            ]
+        }
+    },
+    {
+        "name": "Benedict",
+        "img_url": "https://nookipedia.com/w/images/b/bd/Benedict_NLa.png",
+        "data": {
+            "species": "Chicken",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 10th",
+            "clothes": [
+                "Two-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "uh-hoo"
+            ]
+        }
+    },
+    {
+        "name": "Benjamin",
+        "img_url": null,
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "August 3rd",
+            "clothes": [
+                "Subdued-"
+            ],
+            "starsign": null,
+            "phrase": [
+                "alrighty"
+            ]
+        }
+    },
+    {
+        "name": "Bertha",
+        "img_url": "https://nookipedia.com/w/images/3/37/Bertha_NLa.png",
+        "data": {
+            "species": "Hippo",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "April 25",
+            "clothes": [
+                "Pink Tartan",
+                "Funky-Dot Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bloop"
+            ]
+        }
+    },
+    {
+        "name": "Bettina",
+        "img_url": "https://nookipedia.com/w/images/8/84/Bettina_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "June 12th",
+            "clothes": [
+                "Chef"
+            ],
+            "starsign": null,
+            "phrase": [
+                "eekers"
+            ]
+        }
+    },
+    {
+        "name": "Bianca",
+        "img_url": "https://nookipedia.com/w/images/a/ae/Bianca_NLa.png",
+        "data": {
+            "species": "Tiger",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "December 13th",
+            "clothes": [
+                "Red Do"
+            ],
+            "starsign": null,
+            "phrase": [
+                "glimmer"
+            ]
+        }
+    },
+    {
+        "name": "Biff",
+        "img_url": "https://nookipedia.com/w/images/c/c8/Biff_NLa.png",
+        "data": {
+            "species": "Hippo",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "March 29th",
+            "clothes": [
+                "Jagged Shirt",
+                "Jagged Tee"
+            ],
+            "starsign": " (DnM to DnM e+)",
+            "phrase": [
+                "squirt"
+            ]
+        }
+    },
+    {
+        "name": "Big Top",
+        "img_url": "https://nookipedia.com/w/images/2/2b/Big_Top_NLa.png",
+        "data": {
+            "species": "Elephant",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 3rd",
+            "clothes": [
+                "No. 3 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "villai"
+            ]
+        }
+    },
+    {
+        "name": "Bill",
+        "img_url": "https://nookipedia.com/w/images/5/51/Bill_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "February 1st",
+            "clothes": [
+                "No. 2 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quacko"
+            ]
+        }
+    },
+    {
+        "name": "Billy",
+        "img_url": null,
+        "data": {
+            "species": "Goat",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "March 25th",
+            "clothes": [
+                "Sha"
+            ],
+            "starsign": null,
+            "phrase": [
+                "dagaabit"
+            ]
+        }
+    },
+    {
+        "name": "Biskit",
+        "img_url": "https://nookipedia.com/w/images/d/de/Biskit_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "May 13th",
+            "clothes": [
+                "Mod Top",
+                "Deep-Blue Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "dawg"
+            ]
+        }
+    },
+    {
+        "name": "Bitty",
+        "img_url": null,
+        "data": {
+            "species": "Hippo",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "October 6th",
+            "clothes": [
+                "Funky Dot Shirt",
+                "Funky-Dot Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "my",
+                "dear"
+            ]
+        }
+    },
+    {
+        "name": "Blaire",
+        "img_url": "https://nookipedia.com/w/images/c/cc/Blaire_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "July 3rd",
+            "clothes": [
+                "Peachy Shirt",
+                "Peachy Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "utlet"
+            ]
+        }
+    },
+    {
+        "name": "Blanche",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "December 21st",
+            "clothes": [
+                "St"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quite",
+                "so"
+            ]
+        }
+    },
+    {
+        "name": "Blathers",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "September 24",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Bluebear",
+        "img_url": "https://nookipedia.com/w/images/2/25/Bluebear_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "June 24th",
+            "clothes": [
+                "Lemon Gingham",
+                "Lemon Gingham Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "peach"
+            ]
+        }
+    },
+    {
+        "name": "Bob",
+        "img_url": "https://nookipedia.com/w/images/7/79/Bob_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "January 1st",
+            "clothes": [
+                "Blossom Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pthhpth"
+            ]
+        }
+    },
+    {
+        "name": "Bonbon",
+        "img_url": null,
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "March 3rd",
+            "clothes": [
+                "Choc"
+            ],
+            "starsign": null,
+            "phrase": [
+                "deelish"
+            ]
+        }
+    },
+    {
+        "name": "Bones",
+        "img_url": "https://nookipedia.com/w/images/6/62/Bones_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "August 4th",
+            "clothes": [
+                "Caveman Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yip",
+                "yip"
+            ]
+        }
+    },
+    {
+        "name": "Boomer",
+        "img_url": "https://nookipedia.com/w/images/7/76/Boomer_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "February 7th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Explorer Tee"
+            ],
+            "starsign": " (ACGC & DnM e+)",
+            "phrase": [
+                "huma"
+            ]
+        }
+    },
+    {
+        "name": "Boone",
+        "img_url": "https://nookipedia.com/w/images/d/d5/Boone_NLa.png",
+        "data": {
+            "species": "Gorilla",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "September 12th",
+            "clothes": [
+                "Comf"
+            ],
+            "starsign": null,
+            "phrase": [
+                "baboom"
+            ]
+        }
+    },
+    {
+        "name": "Boots",
+        "img_url": null,
+        "data": {
+            "species": "Alligator",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 7th",
+            "clothes": [
+                "Jes"
+            ],
+            "starsign": null,
+            "phrase": [
+                "muchie"
+            ]
+        }
+    },
+    {
+        "name": "Boris",
+        "img_url": null,
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "November 6th",
+            "clothes": [
+                "Kaffe's Shirt\", '*', 'Splendid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "schort"
+            ]
+        }
+    },
+    {
+        "name": "Boyd",
+        "img_url": null,
+        "data": {
+            "species": "Gorilla",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "October 1st",
+            "clothes": [
+                "Good-Fortune Clothes"
+            ],
+            "starsign": null,
+            "phrase": [
+                "uh-oh"
+            ]
+        }
+    },
+    {
+        "name": "Bree",
+        "img_url": "https://nookipedia.com/w/images/0/0e/Bree_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "July 7th",
+            "clothes": [
+                "Floral Knit Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cheeseball"
+            ]
+        }
+    },
+    {
+        "name": "Broccolo",
+        "img_url": "https://nookipedia.com/w/images/8/89/Broccolo_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 30th",
+            "clothes": [
+                "Kiddie Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "eat",
+                "it"
+            ]
+        }
+    },
+    {
+        "name": "Broffina",
+        "img_url": null,
+        "data": {
+            "species": "Chicken",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "October 24th",
+            "clothes": [
+                "Fiend"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cluckadoo"
+            ]
+        }
+    },
+    {
+        "name": "Bruce",
+        "img_url": null,
+        "data": {
+            "species": "Deer",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "May 26th",
+            "clothes": [
+                "After-Scho"
+            ],
+            "starsign": null,
+            "phrase": [
+                "gruff"
+            ]
+        }
+    },
+    {
+        "name": "Bubbles",
+        "img_url": "https://nookipedia.com/w/images/b/b7/Bubbles_NLa.png",
+        "data": {
+            "species": "Hippo",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "September 18th",
+            "clothes": [
+                "Crossing Shirt",
+                "Grape Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hipster"
+            ]
+        }
+    },
+    {
+        "name": "Buck",
+        "img_url": "https://nookipedia.com/w/images/e/ec/Buck_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "April 4th",
+            "clothes": [
+                "Eight-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "parder"
+            ]
+        }
+    },
+    {
+        "name": "Bud",
+        "img_url": "https://nookipedia.com/w/images/8/83/Bud_NLa.png",
+        "data": {
+            "species": "Lion",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 8th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Yellow Aloha Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "dood",
+                "maaa"
+            ]
+        }
+    },
+    {
+        "name": "Bunnie",
+        "img_url": "https://nookipedia.com/w/images/5/57/Bunnie_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "May 9th",
+            "clothes": [
+                "Flicker Shirt",
+                "Jade Check Print",
+                "Jade Plaid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "tee-hee"
+            ]
+        }
+    },
+    {
+        "name": "Butch",
+        "img_url": "https://nookipedia.com/w/images/d/da/Butch_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "November 1st",
+            "clothes": [
+                "Houndstooth Knit",
+                " ', ' Arctic Camo",
+                " ', ' Arctic-Camo Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ROOOOOWF"
+            ]
+        }
+    },
+    {
+        "name": "Buzz",
+        "img_url": null,
+        "data": {
+            "species": "Eagle",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 7th",
+            "clothes": [
+                "Racer 6 Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "captai"
+            ]
+        }
+    },
+    {
+        "name": "C.J.",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "March 7th[1]",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Cally",
+        "img_url": "https://nookipedia.com/w/images/c/c4/Cally_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "September 4th",
+            "clothes": [
+                "Ladybug Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "WHEE"
+            ]
+        }
+    },
+    {
+        "name": "Camofrog",
+        "img_url": "https://nookipedia.com/w/images/d/d5/Camofrog_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "June 5th",
+            "clothes": [
+                "MVP Shirt",
+                "MVP Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "te-hut"
+            ]
+        }
+    },
+    {
+        "name": "Canberra",
+        "img_url": null,
+        "data": {
+            "species": "Koala",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "May 14th",
+            "clothes": [
+                "Green-St"
+            ],
+            "starsign": null,
+            "phrase": [
+                "uh",
+                "uh"
+            ]
+        }
+    },
+    {
+        "name": "Candi",
+        "img_url": null,
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "April 13th",
+            "clothes": [
+                "Ancient Knit",
+                "Deer Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sweetie"
+            ]
+        }
+    },
+    {
+        "name": "Carmen (rabbit)",
+        "img_url": null,
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "January 6th",
+            "clothes": [
+                "Blue Retro Shirt",
+                "Mint Gingham Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ougat"
+            ]
+        }
+    },
+    {
+        "name": "Caroline",
+        "img_url": "https://nookipedia.com/w/images/8/83/Caroline_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "July 15th",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Gelato Shirt",
+                "Gelato Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hulaaaa"
+            ]
+        }
+    },
+    {
+        "name": "Carrie",
+        "img_url": null,
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "December 5th",
+            "clothes": [
+                "Toad Print",
+                "Toad Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "little",
+                "oe"
+            ]
+        }
+    },
+    {
+        "name": "Cashmere",
+        "img_url": null,
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "April 2nd",
+            "clothes": [
+                "Nebula Shirt",
+                "Nebula Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "baaaby"
+            ]
+        }
+    },
+    {
+        "name": "Celeste",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "September 7",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Celia",
+        "img_url": null,
+        "data": {
+            "species": "Eagle",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 25th",
+            "clothes": [
+                "Loud "
+            ],
+            "starsign": null,
+            "phrase": [
+                "feathers"
+            ]
+        }
+    },
+    {
+        "name": "Cesar",
+        "img_url": "https://nookipedia.com/w/images/2/24/Cesar_NLa.png",
+        "data": {
+            "species": "Gorilla",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "September 6th",
+            "clothes": [
+                "A Tee",
+                "Two-Ball Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "highess"
+            ]
+        }
+    },
+    {
+        "name": "Chadder",
+        "img_url": null,
+        "data": {
+            "species": "Mouse",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "December 15th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "fromage"
+            ]
+        }
+    },
+    {
+        "name": "Charlise",
+        "img_url": null,
+        "data": {
+            "species": "Bear",
+            "gender": "Female",
+            "personality": "PeppyUchi",
+            "birthday": "April 17",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Red Warm-Up Suit"
+            ],
+            "starsign": null,
+            "phrase": [
+                "urgh"
+            ]
+        }
+    },
+    {
+        "name": "Cheri",
+        "img_url": "https://nookipedia.com/w/images/4/4b/Cheri_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "March 17th",
+            "clothes": [
+                "Yellow Bar Shirt",
+                "Sunflower Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "tralala"
+            ]
+        }
+    },
+    {
+        "name": "Cherry",
+        "img_url": "https://nookipedia.com/w/images/3/32/Cherry_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "May 11th",
+            "clothes": [
+                "Spid"
+            ],
+            "starsign": null,
+            "phrase": [
+                "what",
+                "what"
+            ]
+        }
+    },
+    {
+        "name": "Chester",
+        "img_url": "https://nookipedia.com/w/images/0/09/Chester_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "August 6th",
+            "clothes": [
+                "Yellow Bar Shirt",
+                "Yellow-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "rookie"
+            ]
+        }
+    },
+    {
+        "name": "Chevre",
+        "img_url": "https://nookipedia.com/w/images/4/48/Chevre_NLa.png",
+        "data": {
+            "species": "Goat",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 6th",
+            "clothes": [
+                "Natty Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "la",
+                "baa"
+            ]
+        }
+    },
+    {
+        "name": "Chief",
+        "img_url": "https://nookipedia.com/w/images/7/73/Chief_NLa.png",
+        "data": {
+            "species": "Wolf",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 19th",
+            "clothes": [
+                "Red Bar Shirt",
+                "Red-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "harrumph"
+            ]
+        }
+    },
+    {
+        "name": "Chops",
+        "img_url": null,
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "October 13th",
+            "clothes": [
+                "Red Ringma"
+            ],
+            "starsign": null,
+            "phrase": [
+                "zoik"
+            ]
+        }
+    },
+    {
+        "name": "Chow",
+        "img_url": "https://nookipedia.com/w/images/9/97/Chow_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 22",
+            "clothes": [
+                "Star Tee"
+            ],
+            "starsign": " (ACNL)",
+            "phrase": [
+                "aiya"
+            ]
+        }
+    },
+    {
+        "name": "Chrissy",
+        "img_url": "https://nookipedia.com/w/images/6/60/Chrissy_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "August 28th",
+            "clothes": [
+                "Lite Polka Shirt",
+                "Lite Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sparkles"
+            ]
+        }
+    },
+    {
+        "name": "Claude",
+        "img_url": null,
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "December 3rd",
+            "clothes": [
+                "Dark Polka Shirt",
+                "Dark Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hopalog"
+            ]
+        }
+    },
+    {
+        "name": "Claudia",
+        "img_url": null,
+        "data": {
+            "species": "Tiger",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 22nd",
+            "clothes": [
+                "Spr"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ooh",
+                "la",
+                "la"
+            ]
+        }
+    },
+    {
+        "name": "Clay",
+        "img_url": null,
+        "data": {
+            "species": "Hamster",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 19th",
+            "clothes": [
+                "Uncom"
+            ],
+            "starsign": null,
+            "phrase": [
+                "thump"
+            ]
+        }
+    },
+    {
+        "name": "Cleo",
+        "img_url": null,
+        "data": {
+            "species": "Horse",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "February 9th",
+            "clothes": [
+                "Silk Bloom Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sugar"
+            ]
+        }
+    },
+    {
+        "name": "Clyde",
+        "img_url": "https://nookipedia.com/w/images/0/0a/Clyde_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "May 1st",
+            "clothes": [
+                "Bubble Gum Shirt",
+                "Bubble-Gum Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "clip",
+                "clawp"
+            ]
+        }
+    },
+    {
+        "name": "Coach",
+        "img_url": null,
+        "data": {
+            "species": "Bull",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "April 29th",
+            "clothes": [
+                "R"
+            ],
+            "starsign": null,
+            "phrase": [
+                "stubble"
+            ]
+        }
+    },
+    {
+        "name": "Cobb",
+        "img_url": "https://nookipedia.com/w/images/1/1e/Cobb_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "October 7th",
+            "clothes": [
+                "Racer Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hot",
+                "dog"
+            ]
+        }
+    },
+    {
+        "name": "Coco",
+        "img_url": "https://nookipedia.com/w/images/9/97/Coco_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 1st",
+            "clothes": [
+                "Blossoming Shirt",
+                "Dawn Shirt",
+                "Dawn Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "doyoig"
+            ]
+        }
+    },
+    {
+        "name": "Cole",
+        "img_url": null,
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "August 10th",
+            "clothes": [
+                "C"
+            ],
+            "starsign": null,
+            "phrase": [
+                "duuude"
+            ]
+        }
+    },
+    {
+        "name": "Colton",
+        "img_url": null,
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "May 22nd",
+            "clothes": [
+                "Blue Ringma"
+            ],
+            "starsign": null,
+            "phrase": [
+                "check",
+                "it"
+            ]
+        }
+    },
+    {
+        "name": "Cookie",
+        "img_url": "https://nookipedia.com/w/images/b/b6/Cookie_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "June 18th",
+            "clothes": [
+                "Blue Tartan",
+                " ', ' Blue Tartan Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "arfer"
+            ]
+        }
+    },
+    {
+        "name": "Cousteau",
+        "img_url": "https://nookipedia.com/w/images/7/7d/Cousteau_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "December 17th",
+            "clothes": [
+                "Noodle Shirt",
+                "Rally Shirt",
+                "Rally Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "oui",
+                "oui"
+            ]
+        }
+    },
+    {
+        "name": "Cranston",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "September 23rd",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "sweatbad"
+            ]
+        }
+    },
+    {
+        "name": "Croque",
+        "img_url": null,
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 18th",
+            "clothes": [
+                "Imper"
+            ],
+            "starsign": null,
+            "phrase": [
+                "as",
+                "if"
+            ]
+        }
+    },
+    {
+        "name": "Cube",
+        "img_url": "https://nookipedia.com/w/images/3/3b/Cube_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "January 29th",
+            "clothes": [
+                "N Logo Shirt",
+                "G Logo Shirt",
+                "Big Dot Shirt",
+                "Big-Dot Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "d-d-dude"
+            ]
+        }
+    },
+    {
+        "name": "Curlos",
+        "img_url": "https://nookipedia.com/w/images/f/f0/Curlos_NLa.png",
+        "data": {
+            "species": "Sheep",
+            "gender": "Male",
+            "personality": "Cranky  (Animal Forest e+)Smug (New Leaf)",
+            "birthday": "May 8th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Reggae Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "shearly"
+            ]
+        }
+    },
+    {
+        "name": "Curly",
+        "img_url": "https://nookipedia.com/w/images/f/f3/Curly_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "July 26th",
+            "clothes": [
+                "Green Bar Shirt",
+                "Green-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yoik"
+            ]
+        }
+    },
+    {
+        "name": "Curt",
+        "img_url": "https://nookipedia.com/w/images/2/24/Curt_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 1",
+            "clothes": [
+                "MVP Shirt",
+                "MVP Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "fuzzball"
+            ]
+        }
+    },
+    {
+        "name": "Cyd",
+        "img_url": null,
+        "data": {
+            "species": "Elephant",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Cyrano",
+        "img_url": "https://nookipedia.com/w/images/b/b0/Cyrano_NLa.png",
+        "data": {
+            "species": "Anteater",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "March 9",
+            "clothes": [
+                "Wave Print",
+                "Dawn Shirt",
+                "Dawn Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ah-CHOOO",
+                "ah-CHOO"
+            ]
+        }
+    },
+    {
+        "name": "Daisy",
+        "img_url": "https://nookipedia.com/w/images/9/9b/Daisy_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "November 16th",
+            "clothes": [
+                "Kiddie Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bow-WOW"
+            ]
+        }
+    },
+    {
+        "name": "Daisy Mae",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Deena",
+        "img_url": "https://nookipedia.com/w/images/7/7b/Deena_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "June 27th",
+            "clothes": [
+                "Mosaic Shirt",
+                "Kiddie Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "woowoo"
+            ]
+        }
+    },
+    {
+        "name": "Deirdre",
+        "img_url": null,
+        "data": {
+            "species": "Deer",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "May 4th",
+            "clothes": [
+                "Fall"
+            ],
+            "starsign": null,
+            "phrase": [
+                "whatevs"
+            ]
+        }
+    },
+    {
+        "name": "Del",
+        "img_url": "https://nookipedia.com/w/images/b/b7/Del_NLa.png",
+        "data": {
+            "species": "Alligator",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "May 27th",
+            "clothes": [
+                "Wave Print",
+                "Blue Stripe Knit",
+                "Blue-Stripe Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grok"
+            ]
+        }
+    },
+    {
+        "name": "Deli",
+        "img_url": null,
+        "data": {
+            "species": "Monkey",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "May 24th",
+            "clothes": [
+                "Blue Di"
+            ],
+            "starsign": null,
+            "phrase": [
+                "moch"
+            ]
+        }
+    },
+    {
+        "name": "Derwin",
+        "img_url": "https://nookipedia.com/w/images/a/a1/Derwin_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "May 25th",
+            "clothes": [
+                "Yellow Bar Shirt",
+                "Yellow-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "derrrr"
+            ]
+        }
+    },
+    {
+        "name": "Diana",
+        "img_url": "https://nookipedia.com/w/images/c/c2/Diana_NLa.png",
+        "data": {
+            "species": "Deer",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "January 4th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "o",
+                "doy"
+            ]
+        }
+    },
+    {
+        "name": "Diva",
+        "img_url": null,
+        "data": {
+            "species": "Frog",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "October 2nd",
+            "clothes": [
+                "Amet"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ya",
+                "kow"
+            ]
+        }
+    },
+    {
+        "name": "Dizzy",
+        "img_url": "https://nookipedia.com/w/images/0/07/Dizzy_NLa.png",
+        "data": {
+            "species": "Elephant",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "July 14th",
+            "clothes": [
+                "No. 5 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "woo-oo"
+            ]
+        }
+    },
+    {
+        "name": "Dobie",
+        "img_url": null,
+        "data": {
+            "species": "Wolf",
+            "gender": "Male",
+            "personality": "Lazy (Animal Crossing)Cranky (New Leaf)",
+            "birthday": "February 17th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Sweater-Vest"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ohmmm"
+            ]
+        }
+    },
+    {
+        "name": "Doc",
+        "img_url": "https://nookipedia.com/w/images/9/94/Doc_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "March 16th",
+            "clothes": [
+                "Vertigo Shirt",
+                "Vertigo Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "old",
+                "buy"
+            ]
+        }
+    },
+    {
+        "name": "Dom",
+        "img_url": null,
+        "data": {
+            "species": "Sheep",
+            "gender": "Male",
+            "personality": "Jock[1]",
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "ideedaroo"
+            ]
+        }
+    },
+    {
+        "name": "Dora",
+        "img_url": "https://nookipedia.com/w/images/2/21/Dora_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "February 18th",
+            "clothes": [
+                "Sha"
+            ],
+            "starsign": null,
+            "phrase": [
+                "squeaky"
+            ]
+        }
+    },
+    {
+        "name": "Dotty",
+        "img_url": "https://nookipedia.com/w/images/5/5e/Dotty_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "March 14th",
+            "clothes": [
+                "Blue Check Shirt",
+                "Blue-Check Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "wee",
+                "oe"
+            ]
+        }
+    },
+    {
+        "name": "Drago",
+        "img_url": null,
+        "data": {
+            "species": "Alligator",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "February 12th",
+            "clothes": [
+                "Dr"
+            ],
+            "starsign": null,
+            "phrase": [
+                "burrr"
+            ]
+        }
+    },
+    {
+        "name": "Drake",
+        "img_url": "https://nookipedia.com/w/images/a/ab/Drake_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 25th",
+            "clothes": [
+                "F"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quacko"
+            ]
+        }
+    },
+    {
+        "name": "Drift",
+        "img_url": "https://nookipedia.com/w/images/f/fd/Drift_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "October 9th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "No. 67 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "brah"
+            ]
+        }
+    },
+    {
+        "name": "Ed",
+        "img_url": "https://nookipedia.com/w/images/1/16/Ed_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Jock (Animal Crossing, City Folk)Smug (New Leaf onwards)",
+            "birthday": "September 16th",
+            "clothes": [
+                "Rickrack Shirt",
+                "Lite Polka Shirt",
+                "Lite Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "greehor"
+            ]
+        }
+    },
+    {
+        "name": "Egbert",
+        "img_url": "https://nookipedia.com/w/images/1/12/Egbert_NLa.png",
+        "data": {
+            "species": "Chicken",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 14th",
+            "clothes": [
+                "Swell Shirt",
+                "Swell Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "doodle-duh",
+                "NA",
+                "だヨ",
+                "JP"
+            ]
+        }
+    },
+    {
+        "name": "Elise",
+        "img_url": "https://nookipedia.com/w/images/f/fe/Elise_NLa.png",
+        "data": {
+            "species": "Monkey",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "March 21st",
+            "clothes": [
+                "Cool Shirt",
+                "Gumdrop Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "puh-lease"
+            ]
+        }
+    },
+    {
+        "name": "Ellie",
+        "img_url": null,
+        "data": {
+            "species": "Elephant",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "May 12th",
+            "clothes": [
+                "Red Grid Shirt",
+                "Red-Grid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "wee",
+                "oe",
+                "(PG)",
+                "lil",
+                "oe",
+                "(NL)"
+            ]
+        }
+    },
+    {
+        "name": "Elmer",
+        "img_url": "https://nookipedia.com/w/images/c/ce/Elmer_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 5th",
+            "clothes": [
+                "Gaudy Sweater",
+                "Periwinkle Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "tederfoot"
+            ]
+        }
+    },
+    {
+        "name": "Eloise",
+        "img_url": "https://nookipedia.com/w/images/5/51/Eloise_NLa.png",
+        "data": {
+            "species": "Elephant",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "December 8th",
+            "clothes": [
+                "Loud Line Shirt",
+                "Yellow Bar Shirt",
+                "Yellow-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "tooooot"
+            ]
+        }
+    },
+    {
+        "name": "Elvis",
+        "img_url": "https://nookipedia.com/w/images/5/51/Elvis_NLa.png",
+        "data": {
+            "species": "Lion",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 23rd",
+            "clothes": [
+                "Ro"
+            ],
+            "starsign": null,
+            "phrase": [
+                "uh-huh"
+            ]
+        }
+    },
+    {
+        "name": "Erik",
+        "img_url": null,
+        "data": {
+            "species": "Deer",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "July 27th",
+            "clothes": [
+                "Comf"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chow",
+                "dow"
+            ]
+        }
+    },
+    {
+        "name": "Eugene",
+        "img_url": null,
+        "data": {
+            "species": "Koala",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "October 26th",
+            "clothes": [
+                "Plea"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yeah",
+                "buddy"
+            ]
+        }
+    },
+    {
+        "name": "Eunice",
+        "img_url": "https://nookipedia.com/w/images/8/8f/Eunice_NLa.png",
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "April 3rd",
+            "clothes": [
+                "Red Grid Shirt",
+                "Red-Grid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "lambchop"
+            ]
+        }
+    },
+    {
+        "name": "Fang",
+        "img_url": "https://nookipedia.com/w/images/7/72/Fang_NLa.png",
+        "data": {
+            "species": "Wolf",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 18th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "cha-chomp"
+            ]
+        }
+    },
+    {
+        "name": "Fauna",
+        "img_url": "https://nookipedia.com/w/images/d/dc/Fauna_NLa.png",
+        "data": {
+            "species": "Deer",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 26th",
+            "clothes": [
+                "Shear"
+            ],
+            "starsign": null,
+            "phrase": [
+                "dearie"
+            ]
+        }
+    },
+    {
+        "name": "Felicity",
+        "img_url": "https://nookipedia.com/w/images/5/5e/Felicity_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "March 30th",
+            "clothes": [
+                "Dapper Shirt",
+                "Dapper Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mimimi"
+            ]
+        }
+    },
+    {
+        "name": "Filbert",
+        "img_url": "https://nookipedia.com/w/images/8/83/Filbert_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 3rd",
+            "clothes": [
+                "Vogue Top",
+                "Checkered Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bucko"
+            ]
+        }
+    },
+    {
+        "name": "Flick",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Flip",
+        "img_url": "https://nookipedia.com/w/images/1/11/Flip_NLa.png",
+        "data": {
+            "species": "Monkey",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "November 21st",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "rerack"
+            ]
+        }
+    },
+    {
+        "name": "Flo",
+        "img_url": null,
+        "data": {
+            "species": "Penguin",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "September 2nd",
+            "clothes": [
+                "Fiend"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cha"
+            ]
+        }
+    },
+    {
+        "name": "Flora (villager)",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 9th",
+            "clothes": [
+                "Gu"
+            ],
+            "starsign": null,
+            "phrase": [
+                "piky"
+            ]
+        }
+    },
+    {
+        "name": "Flurry",
+        "img_url": null,
+        "data": {
+            "species": "Hamster",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "January 30th",
+            "clothes": [
+                "F"
+            ],
+            "starsign": null,
+            "phrase": [
+                "powderpuff"
+            ]
+        }
+    },
+    {
+        "name": "Francine",
+        "img_url": "https://nookipedia.com/w/images/3/33/Francine_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "January 22nd",
+            "clothes": [
+                "Dark Polka Shirt",
+                "Dark Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "karat"
+            ]
+        }
+    },
+    {
+        "name": "Frank",
+        "img_url": null,
+        "data": {
+            "species": "Eagle",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 30th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Black Letter Jacket"
+            ],
+            "starsign": null,
+            "phrase": [
+                "crushy"
+            ]
+        }
+    },
+    {
+        "name": "Franklin",
+        "img_url": "https://nookipedia.com/w/images/c/c3/Franklin_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "October 10th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Freckles",
+        "img_url": "https://nookipedia.com/w/images/1/19/Freckles_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 19th",
+            "clothes": [
+                "Bright Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ducky"
+            ]
+        }
+    },
+    {
+        "name": "Freya",
+        "img_url": "https://nookipedia.com/w/images/6/62/Freya_NLa.png",
+        "data": {
+            "species": "Wolf",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "December 14th",
+            "clothes": [
+                "D"
+            ],
+            "starsign": null,
+            "phrase": [
+                "uff",
+                "da"
+            ]
+        }
+    },
+    {
+        "name": "Friga",
+        "img_url": "https://nookipedia.com/w/images/d/d6/Friga_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "October 16th",
+            "clothes": [
+                "Cozy Sweater",
+                "Picnic Shirt",
+                "Picnic Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "brrmph"
+            ]
+        }
+    },
+    {
+        "name": "Frita",
+        "img_url": null,
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "July 16th",
+            "clothes": [
+                "R"
+            ],
+            "starsign": null,
+            "phrase": [
+                "oh",
+                "ewe"
+            ]
+        }
+    },
+    {
+        "name": "Frobert",
+        "img_url": "https://nookipedia.com/w/images/4/4f/Frobert_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "February 8th",
+            "clothes": [
+                "Gracie Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "fribbit"
+            ]
+        }
+    },
+    {
+        "name": "Fuchsia",
+        "img_url": null,
+        "data": {
+            "species": "Deer",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "September 19th",
+            "clothes": [
+                "Dark "
+            ],
+            "starsign": null,
+            "phrase": [
+                "girlfried"
+            ]
+        }
+    },
+    {
+        "name": "Gabi",
+        "img_url": "https://nookipedia.com/w/images/1/14/Gabi_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "December 16th",
+            "clothes": [
+                "Waffle Shirt",
+                "Waffle Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hoeybu"
+            ]
+        }
+    },
+    {
+        "name": "Gala",
+        "img_url": "https://nookipedia.com/w/images/0/05/Gala_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 5th",
+            "clothes": [
+                "Daisy Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sortie"
+            ]
+        }
+    },
+    {
+        "name": "Gaston",
+        "img_url": "https://nookipedia.com/w/images/b/bb/Gaston_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "October 28th",
+            "clothes": [
+                "Swell Shirt",
+                "Swell Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mo",
+                "chou"
+            ]
+        }
+    },
+    {
+        "name": "Gayle",
+        "img_url": null,
+        "data": {
+            "species": "Alligator",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "May 17th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "sacky"
+            ]
+        }
+    },
+    {
+        "name": "Genji",
+        "img_url": "https://nookipedia.com/w/images/9/96/Genji_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "January 21st",
+            "clothes": [
+                "Misty Shirt",
+                "Misty Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "otaku"
+            ]
+        }
+    },
+    {
+        "name": "Gigi",
+        "img_url": "https://nookipedia.com/w/images/9/9c/Gigi_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "August 11th",
+            "clothes": [
+                "Beaded Shirt",
+                "Beaded Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ribbette"
+            ]
+        }
+    },
+    {
+        "name": "Gladys",
+        "img_url": "https://nookipedia.com/w/images/6/6e/Gladys_NLa.png",
+        "data": {
+            "species": "Ostrich",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "January 15th",
+            "clothes": [
+                "Misty Shirt",
+                "Misty Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "stretch"
+            ]
+        }
+    },
+    {
+        "name": "Gloria",
+        "img_url": "https://nookipedia.com/w/images/6/6a/Gloria_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "August 12th",
+            "clothes": [
+                "Turnip Top",
+                "Corseted Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quacker"
+            ]
+        }
+    },
+    {
+        "name": "Goldie",
+        "img_url": "https://nookipedia.com/w/images/5/51/Goldie_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "December 27th",
+            "clothes": [
+                "Hippie Shirt",
+                "Red Check Shirt",
+                "Dapper Shirt",
+                "Dapper Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "woof"
+            ]
+        }
+    },
+    {
+        "name": "Gonzo",
+        "img_url": null,
+        "data": {
+            "species": "Koala",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "October 13th",
+            "clothes": [
+                "Earthy Knit Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mate"
+            ]
+        }
+    },
+    {
+        "name": "Goose",
+        "img_url": "https://nookipedia.com/w/images/1/1d/Goose_NLa.png",
+        "data": {
+            "species": "Chicken",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "October 4th",
+            "clothes": [
+                "Tropical Shirt",
+                "Tropical Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "buh-kay"
+            ]
+        }
+    },
+    {
+        "name": "Graham",
+        "img_url": null,
+        "data": {
+            "species": "Hamster",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "June 20th",
+            "clothes": [
+                "Veget"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ideed"
+            ]
+        }
+    },
+    {
+        "name": "Greta",
+        "img_url": null,
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "September 5th",
+            "clothes": [
+                "Bl"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yelp"
+            ]
+        }
+    },
+    {
+        "name": "Grizzly",
+        "img_url": "https://nookipedia.com/w/images/8/88/Grizzly_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 31",
+            "clothes": [
+                "W Shirt",
+                "Houndstooth Tee",
+                "Three-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grrr",
+                "grrr..."
+            ]
+        }
+    },
+    {
+        "name": "Groucho",
+        "img_url": "https://nookipedia.com/w/images/8/83/Groucho_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "October 23rd",
+            "clothes": [
+                "Windsock Shirt",
+                "Lite Polka Shirt",
+                "Lite Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grumble"
+            ]
+        }
+    },
+    {
+        "name": "Gruff",
+        "img_url": "https://nookipedia.com/w/images/b/bb/Gruff_NLa.png",
+        "data": {
+            "species": "Goat",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "August 29th",
+            "clothes": [
+                "Big-Star Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bleh",
+                "eh",
+                "eh"
+            ]
+        }
+    },
+    {
+        "name": "Gulliver",
+        "img_url": "https://nookipedia.com/w/images/3/32/Gulliver_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "May 25th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Gwen",
+        "img_url": "https://nookipedia.com/w/images/0/0e/Gwen_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "January 23rd",
+            "clothes": [
+                "Yellow Bolero",
+                "Melon Gingham Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "h-h-ho"
+            ]
+        }
+    },
+    {
+        "name": "Hamlet",
+        "img_url": "https://nookipedia.com/w/images/1/12/Hamlet_NLa.png",
+        "data": {
+            "species": "Hamster",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "May 30th",
+            "clothes": [
+                "Big"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hammie"
+            ]
+        }
+    },
+    {
+        "name": "Hamphrey",
+        "img_url": null,
+        "data": {
+            "species": "Hamster",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "February 25th",
+            "clothes": [
+                "Beige K"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sort"
+            ]
+        }
+    },
+    {
+        "name": "Hans",
+        "img_url": null,
+        "data": {
+            "species": "Gorilla",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "December 5th",
+            "clothes": [
+                "Blue A"
+            ],
+            "starsign": null,
+            "phrase": [
+                "groovy"
+            ]
+        }
+    },
+    {
+        "name": "Harry",
+        "img_url": "https://nookipedia.com/w/images/8/81/Harry_NLa.png",
+        "data": {
+            "species": "Hippo",
+            "gender": "Male",
+            "personality": "Jock (Animal Forest e+)Cranky (City Folk onwards)",
+            "birthday": "January 7th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Jungle Camo",
+                "Jungle-Camo Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "beach",
+                "bum"
+            ]
+        }
+    },
+    {
+        "name": "Harvey",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "August 2nd",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Hazel",
+        "img_url": null,
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "August 30th",
+            "clothes": [
+                "Red War"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ui-wow"
+            ]
+        }
+    },
+    {
+        "name": "Henry",
+        "img_url": null,
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": " September 21",
+            "clothes": [
+                "Chain"
+            ],
+            "starsign": null,
+            "phrase": [
+                "soozit"
+            ]
+        }
+    },
+    {
+        "name": "Hippeux",
+        "img_url": null,
+        "data": {
+            "species": "Hippo",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "October 15th",
+            "clothes": [
+                "Beige Embl"
+            ],
+            "starsign": null,
+            "phrase": [
+                "atch"
+            ]
+        }
+    },
+    {
+        "name": "Hopkins",
+        "img_url": null,
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "March 11th",
+            "clothes": [
+                "Racer Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "thumper"
+            ]
+        }
+    },
+    {
+        "name": "Hopper",
+        "img_url": "https://nookipedia.com/w/images/5/53/Hopper_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "April 6th",
+            "clothes": [
+                "Dr"
+            ],
+            "starsign": null,
+            "phrase": [
+                "slushie"
+            ]
+        }
+    },
+    {
+        "name": "Hornsby",
+        "img_url": null,
+        "data": {
+            "species": "Rhino",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "March 20th",
+            "clothes": [
+                "Chev"
+            ],
+            "starsign": null,
+            "phrase": [
+                "schozzle"
+            ]
+        }
+    },
+    {
+        "name": "Huck",
+        "img_url": null,
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Lazy (Animal Crossing)Smug (New Leaf)",
+            "birthday": "July 9th",
+            "clothes": [
+                "Melon Gingham",
+                "Melon Gingham Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hopper"
+            ]
+        }
+    },
+    {
+        "name": "Hugh",
+        "img_url": "https://nookipedia.com/w/images/9/9f/Hugh_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "December 30th",
+            "clothes": [
+                "Trendy Top",
+                "Jade Check Print",
+                "Jade Plaid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sortle"
+            ]
+        }
+    },
+    {
+        "name": "Iggly",
+        "img_url": "https://nookipedia.com/w/images/b/bd/Iggly_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "November 2nd",
+            "clothes": [
+                "Red Bar Shirt",
+                "Red-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "waddler"
+            ]
+        }
+    },
+    {
+        "name": "Ike",
+        "img_url": null,
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "May 16th",
+            "clothes": [
+                "Jungle Camo",
+                "Jungle-Camo Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "roadie"
+            ]
+        }
+    },
+    {
+        "name": "Isabelle",
+        "img_url": "https://nookipedia.com/w/images/f/fc/Isabelle_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "December 20th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Jack",
+        "img_url": "https://nookipedia.com/w/images/5/5c/Jack_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "October 31st",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Jacob",
+        "img_url": null,
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "August 24th",
+            "clothes": [
+                "Green Tie-Dye",
+                "Green Tie-Dye Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ya",
+                "feel"
+            ]
+        }
+    },
+    {
+        "name": "Jacques",
+        "img_url": null,
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "June 22nd",
+            "clothes": [
+                "Red Flan"
+            ],
+            "starsign": null,
+            "phrase": [
+                "zut",
+                "alors",
+                "NA",
+                "チェケラ",
+                "JP"
+            ]
+        }
+    },
+    {
+        "name": "Jambette",
+        "img_url": "https://nookipedia.com/w/images/f/fe/Jambette_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "October 27th",
+            "clothes": [
+                "Prism Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "croak-kay"
+            ]
+        }
+    },
+    {
+        "name": "Jay",
+        "img_url": "https://nookipedia.com/w/images/9/90/Jay_NLa.png",
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "July 17th",
+            "clothes": [
+                "Six-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "heeeeeyy"
+            ]
+        }
+    },
+    {
+        "name": "Jeremiah",
+        "img_url": "https://nookipedia.com/w/images/1/11/Jeremiah_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "July 8th",
+            "clothes": [
+                "Sunset Top",
+                "Sunset Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ee-deep"
+            ]
+        }
+    },
+    {
+        "name": "Jingle",
+        "img_url": "https://nookipedia.com/w/images/8/8e/Jingle_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "December 24th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Jitters",
+        "img_url": "https://nookipedia.com/w/images/e/e4/Jitters_NLa.png",
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "February 2nd",
+            "clothes": [
+                "Latin Uniform",
+                "Soccer Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bzzert"
+            ]
+        }
+    },
+    {
+        "name": "Joey",
+        "img_url": "https://nookipedia.com/w/images/4/47/Joey_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "January 3rd",
+            "clothes": [
+                "No. 3 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bleeeeeck"
+            ]
+        }
+    },
+    {
+        "name": "Judy",
+        "img_url": null,
+        "data": {
+            "species": "Cub",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "myohmy"
+            ]
+        }
+    },
+    {
+        "name": "User:Vmario97/Judy",
+        "img_url": null,
+        "data": {
+            "species": "Cub",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Julia",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "July 31st",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Purple Tie-Dye Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "dahlig"
+            ]
+        }
+    },
+    {
+        "name": "Julian",
+        "img_url": null,
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "March 15th",
+            "clothes": [
+                "Tw"
+            ],
+            "starsign": null,
+            "phrase": [
+                "glitter"
+            ]
+        }
+    },
+    {
+        "name": "June (villager)",
+        "img_url": null,
+        "data": {
+            "species": "Cub",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "May 21st",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Garden Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "raibow"
+            ]
+        }
+    },
+    {
+        "name": "K.K. Slider",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "August 23rd",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Kabuki",
+        "img_url": "https://nookipedia.com/w/images/e/ec/Kabuki_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "November 29th",
+            "clothes": [
+                "Lavender Robe",
+                "Misty Shirt",
+                "Misty Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "meooo-OH"
+            ]
+        }
+    },
+    {
+        "name": "Katt",
+        "img_url": null,
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "April 27th",
+            "clothes": [
+                "Pep-"
+            ],
+            "starsign": null,
+            "phrase": [
+                "purrty"
+            ]
+        }
+    },
+    {
+        "name": "Keaton",
+        "img_url": null,
+        "data": {
+            "species": "Eagle",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "June 1st",
+            "clothes": [
+                "R"
+            ],
+            "starsign": null,
+            "phrase": [
+                "wigo"
+            ]
+        }
+    },
+    {
+        "name": "Ken",
+        "img_url": "https://nookipedia.com/w/images/7/78/Ken_NLa.png",
+        "data": {
+            "species": "Chicken",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "December 23rd",
+            "clothes": [
+                "Ni"
+            ],
+            "starsign": null,
+            "phrase": [
+                "o",
+                "doubt"
+            ]
+        }
+    },
+    {
+        "name": "Ketchup",
+        "img_url": null,
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "July 27th",
+            "clothes": [
+                "Flicker Shirt",
+                "Rose-Sky Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "Bitty"
+            ]
+        }
+    },
+    {
+        "name": "Kevin",
+        "img_url": null,
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "April 26th",
+            "clothes": [
+                "After-Scho"
+            ],
+            "starsign": null,
+            "phrase": [
+                "weeweewee"
+            ]
+        }
+    },
+    {
+        "name": "Kicks",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "November 30th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Kid Cat",
+        "img_url": "https://nookipedia.com/w/images/1/1b/Kid_Cat_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 1st",
+            "clothes": [
+                "No. 1 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "psst"
+            ]
+        }
+    },
+    {
+        "name": "Kidd",
+        "img_url": null,
+        "data": {
+            "species": "Goat",
+            "gender": "Male",
+            "personality": "Lazy  Smug",
+            "birthday": "June 28th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Waistcoat"
+            ],
+            "starsign": null,
+            "phrase": [
+                "wut"
+            ]
+        }
+    },
+    {
+        "name": "Kiki",
+        "img_url": "https://nookipedia.com/w/images/8/8f/Kiki_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "October 8th",
+            "clothes": [
+                "Argyle Knit Shirt",
+                "Dapper Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "kitty",
+                "cat"
+            ]
+        }
+    },
+    {
+        "name": "Kitt",
+        "img_url": "https://nookipedia.com/w/images/b/b0/Kitt_NLa.png",
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "October 11th",
+            "clothes": [
+                "Moody Blue Shirt",
+                "Blue Diamond Top",
+                "Blue Diamond Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "child"
+            ]
+        }
+    },
+    {
+        "name": "Kitty",
+        "img_url": "https://nookipedia.com/w/images/9/9d/Kitty_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "February 15th",
+            "clothes": [
+                "Crewel Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mrowrr"
+            ]
+        }
+    },
+    {
+        "name": "Klaus",
+        "img_url": "https://nookipedia.com/w/images/2/22/Klaus_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "March 31st",
+            "clothes": [
+                "Gold-A"
+            ],
+            "starsign": null,
+            "phrase": [
+                "strudel"
+            ]
+        }
+    },
+    {
+        "name": "Knox",
+        "img_url": "https://nookipedia.com/w/images/e/e3/Knox_NLa.png",
+        "data": {
+            "species": "Chicken",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "November 23rd",
+            "clothes": [
+                "Cavalier Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "clucklig"
+            ]
+        }
+    },
+    {
+        "name": "Kody",
+        "img_url": "https://nookipedia.com/w/images/4/4c/Kody_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "September 28th",
+            "clothes": [
+                "Far-Out Shirt",
+                "Orange Check Tee",
+                "Racer Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "okey-dokey",
+                "grah",
+                "grah"
+            ]
+        }
+    },
+    {
+        "name": "Kyle",
+        "img_url": null,
+        "data": {
+            "species": "Wolf",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "December 6th",
+            "clothes": [
+                "Plea"
+            ],
+            "starsign": null,
+            "phrase": [
+                "alpha"
+            ]
+        }
+    },
+    {
+        "name": "Label",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "October 31st",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Leonardo",
+        "img_url": null,
+        "data": {
+            "species": "Tiger",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "May 15th",
+            "clothes": [
+                "Three-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "flexi"
+            ]
+        }
+    },
+    {
+        "name": "Leopold",
+        "img_url": null,
+        "data": {
+            "species": "Lion",
+            "gender": "Male",
+            "personality": "Jock (DnM to DnMe+)Smug (New Leaf onwards)",
+            "birthday": "August 14th",
+            "clothes": [
+                "No"
+            ],
+            "starsign": null,
+            "phrase": [
+                "lio",
+                "cub"
+            ]
+        }
+    },
+    {
+        "name": "Lily",
+        "img_url": "https://nookipedia.com/w/images/4/43/Lily_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "February 4th",
+            "clothes": [
+                "Neo-Classic Knit",
+                "Icy Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "toady"
+            ]
+        }
+    },
+    {
+        "name": "Limberg",
+        "img_url": "https://nookipedia.com/w/images/3/3e/Limberg_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "October 17th",
+            "clothes": [
+                "Thunder Shirt",
+                "Subdued-Print Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "squiky"
+            ]
+        }
+    },
+    {
+        "name": "Lionel",
+        "img_url": null,
+        "data": {
+            "species": "Lion",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "July 29th",
+            "clothes": [
+                "Militar"
+            ],
+            "starsign": null,
+            "phrase": [
+                "precisely"
+            ]
+        }
+    },
+    {
+        "name": "Lloid",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "August 28th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Lobo",
+        "img_url": "https://nookipedia.com/w/images/1/14/Lobo_NLa.png",
+        "data": {
+            "species": "Wolf",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "November 5th",
+            "clothes": [
+                "Checkered Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ah-rooooo"
+            ]
+        }
+    },
+    {
+        "name": "Lolly",
+        "img_url": "https://nookipedia.com/w/images/0/05/Lolly_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 27th",
+            "clothes": [
+                "Natty Shirt",
+                "Natty Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bobo"
+            ]
+        }
+    },
+    {
+        "name": "Lopez",
+        "img_url": null,
+        "data": {
+            "species": "Deer",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "August 20th",
+            "clothes": [
+                "Brow"
+            ],
+            "starsign": null,
+            "phrase": [
+                "buckaroo",
+                "NA",
+                "badoom",
+                "PAL"
+            ]
+        }
+    },
+    {
+        "name": "Louie",
+        "img_url": null,
+        "data": {
+            "species": "Gorilla",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "March 26th",
+            "clothes": [
+                "Li'l Bro's Shirt\", '*', \"Big Bro's Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "toots",
+                "odelay"
+            ]
+        }
+    },
+    {
+        "name": "Lucha",
+        "img_url": "https://nookipedia.com/w/images/a/a6/Lucha_NLa.png",
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "December 12th",
+            "clothes": [
+                "Drag"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cacaw"
+            ]
+        }
+    },
+    {
+        "name": "Lucky",
+        "img_url": "https://nookipedia.com/w/images/2/25/Lucky_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "November 4th",
+            "clothes": [
+                "No. 23 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "rrr-owch"
+            ]
+        }
+    },
+    {
+        "name": "Lucy",
+        "img_url": "https://nookipedia.com/w/images/f/f2/Lucy_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "June 2nd",
+            "clothes": [
+                "Natty Shirt",
+                "Natty Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "soooik"
+            ]
+        }
+    },
+    {
+        "name": "Lyman",
+        "img_url": null,
+        "data": {
+            "species": "Koala",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "October 12th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "chips"
+            ]
+        }
+    },
+    {
+        "name": "Mabel",
+        "img_url": "https://nookipedia.com/w/images/a/ae/Mabel_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "May 22nd",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Mac",
+        "img_url": "https://nookipedia.com/w/images/8/8d/Mac_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "November 11th",
+            "clothes": [
+                "Red Aloha Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "woo",
+                "woof"
+            ]
+        }
+    },
+    {
+        "name": "Maddie",
+        "img_url": null,
+        "data": {
+            "species": "Dog",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "January 11th",
+            "clothes": [
+                "Fetching Outfit",
+                "Picnic Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yippee"
+            ]
+        }
+    },
+    {
+        "name": "Maelle",
+        "img_url": "https://nookipedia.com/w/images/2/29/Maelle_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "April 8th",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Heart Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ducklig"
+            ]
+        }
+    },
+    {
+        "name": "Maggie",
+        "img_url": null,
+        "data": {
+            "species": "Pig",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "September 3rd",
+            "clothes": [
+                "Yodel Shirt",
+                "Mint Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "schep"
+            ]
+        }
+    },
+    {
+        "name": "Mallary",
+        "img_url": "https://nookipedia.com/w/images/d/dc/Mallary_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 17th",
+            "clothes": [
+                "Blue Stripe Knit",
+                "Blue-Stripe Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quackpth"
+            ]
+        }
+    },
+    {
+        "name": "Maple",
+        "img_url": "https://nookipedia.com/w/images/4/4d/Maple_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "June 15th",
+            "clothes": [
+                "Citrus Gingham",
+                "Dapper Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hoey"
+            ]
+        }
+    },
+    {
+        "name": "Marcel",
+        "img_url": "https://nookipedia.com/w/images/e/e2/Marcel_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "December 31st",
+            "clothes": [
+                "Chichi-Print Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "o"
+            ]
+        }
+    },
+    {
+        "name": "Marcie",
+        "img_url": null,
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "May 31st",
+            "clothes": [
+                "Pink T"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pouches"
+            ]
+        }
+    },
+    {
+        "name": "Margie",
+        "img_url": "https://nookipedia.com/w/images/5/54/Margie_NLa.png",
+        "data": {
+            "species": "Elephant",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "January 28th",
+            "clothes": [
+                "Hot Spring Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "tootie"
+            ]
+        }
+    },
+    {
+        "name": "Marina",
+        "img_url": "https://nookipedia.com/w/images/c/c4/Marina_NLa.png",
+        "data": {
+            "species": "Octopus",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "June 26th",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Bubble Gum Shirt",
+                "Bubble-Gum Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "blurp"
+            ]
+        }
+    },
+    {
+        "name": "Marshal",
+        "img_url": null,
+        "data": {
+            "species": "Squirrel",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "September 29th",
+            "clothes": [
+                "Den"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sulky"
+            ]
+        }
+    },
+    {
+        "name": "Mathilda",
+        "img_url": "https://nookipedia.com/w/images/c/cd/Mathilda_NLa.png",
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 12th",
+            "clothes": [
+                "U-R-Here Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "wee",
+                "baby"
+            ]
+        }
+    },
+    {
+        "name": "Megan",
+        "img_url": null,
+        "data": {
+            "species": "Bear",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "sudae",
+                "1"
+            ]
+        }
+    },
+    {
+        "name": "Melba",
+        "img_url": "https://nookipedia.com/w/images/2/20/Melba_NLa.png",
+        "data": {
+            "species": "Koala",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "April 12th",
+            "clothes": [
+                "Green Vest",
+                "Green-Stripe Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "toasty"
+            ]
+        }
+    },
+    {
+        "name": "Merengue",
+        "img_url": "https://nookipedia.com/w/images/8/84/Merengue_NLa.png",
+        "data": {
+            "species": "Rhino",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 19th",
+            "clothes": [
+                "Chef"
+            ],
+            "starsign": null,
+            "phrase": [
+                "shortcake"
+            ]
+        }
+    },
+    {
+        "name": "Merry",
+        "img_url": "https://nookipedia.com/w/images/3/34/Merry_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "June 29th",
+            "clothes": [
+                "Daisy Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mweee"
+            ]
+        }
+    },
+    {
+        "name": "Midge",
+        "img_url": "https://nookipedia.com/w/images/a/a5/Midge_NLa.png",
+        "data": {
+            "species": "Bird",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 12th",
+            "clothes": [
+                "New Spring Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "tweedledee"
+            ]
+        }
+    },
+    {
+        "name": "Mint",
+        "img_url": "https://nookipedia.com/w/images/c/cf/Mint_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "May 2nd",
+            "clothes": [
+                "Gumdrop Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ahhhhhh"
+            ]
+        }
+    },
+    {
+        "name": "Mira",
+        "img_url": null,
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "July 6",
+            "clothes": [
+                "Red"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cottotail"
+            ]
+        }
+    },
+    {
+        "name": "Miranda",
+        "img_url": "https://nookipedia.com/w/images/9/9a/Miranda_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "April 23rd",
+            "clothes": [
+                "Laced Shirt",
+                "Amethyst Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quackulous"
+            ]
+        }
+    },
+    {
+        "name": "Mitzi",
+        "img_url": "https://nookipedia.com/w/images/0/0a/Mitzi_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "September 25th",
+            "clothes": [
+                "Patchwork Top",
+                "Gumdrop Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mew"
+            ]
+        }
+    },
+    {
+        "name": "Moe",
+        "img_url": "https://nookipedia.com/w/images/d/d6/Moe_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "January 12th",
+            "clothes": [
+                "Fish Bone Shirt",
+                "BB Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "myaw"
+            ]
+        }
+    },
+    {
+        "name": "Molly",
+        "img_url": null,
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 7",
+            "clothes": [
+                "Can"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quackidee"
+            ]
+        }
+    },
+    {
+        "name": "Monique",
+        "img_url": "https://nookipedia.com/w/images/8/8c/Monique_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "September 30th",
+            "clothes": [
+                "Grape Shirt",
+                "Grape Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pffffft"
+            ]
+        }
+    },
+    {
+        "name": "Monty",
+        "img_url": "https://nookipedia.com/w/images/8/87/Monty_NLa.png",
+        "data": {
+            "species": "Monkey",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 7th",
+            "clothes": [
+                "Blue Pinstripe",
+                "Blue-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "gtag"
+            ]
+        }
+    },
+    {
+        "name": "Moose",
+        "img_url": "https://nookipedia.com/w/images/c/c1/Moose_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "September 13th",
+            "clothes": [
+                "Big-Star Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "shorty"
+            ]
+        }
+    },
+    {
+        "name": "Mott",
+        "img_url": "https://nookipedia.com/w/images/b/bc/Mott_NLa.png",
+        "data": {
+            "species": "Lion",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "July 10th",
+            "clothes": [
+                "Pirate's Coat\", '*', ' ', ' Blue Letter Jacket"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cagey"
+            ]
+        }
+    },
+    {
+        "name": "Muffy",
+        "img_url": null,
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "February 14th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "ightshade"
+            ]
+        }
+    },
+    {
+        "name": "Murphy",
+        "img_url": null,
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 29th",
+            "clothes": [
+                "Static Shirt",
+                "Purple Tie-Dye Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "laddie"
+            ]
+        }
+    },
+    {
+        "name": "Nan",
+        "img_url": "https://nookipedia.com/w/images/5/5d/Nan_NLa.png",
+        "data": {
+            "species": "Goat",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "August 24th",
+            "clothes": [
+                "Citrus Gingham",
+                "Straw Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "kid"
+            ]
+        }
+    },
+    {
+        "name": "Nana",
+        "img_url": "https://nookipedia.com/w/images/4/46/Nana_NLa.png",
+        "data": {
+            "species": "Monkey",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "August 23rd",
+            "clothes": [
+                "Bubble Gum Shirt",
+                "Bubble-Gum Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "po",
+                "po"
+            ]
+        }
+    },
+    {
+        "name": "Naomi",
+        "img_url": null,
+        "data": {
+            "species": "Cow",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "February 28th",
+            "clothes": [
+                "G"
+            ],
+            "starsign": null,
+            "phrase": [
+                "moolah"
+            ]
+        }
+    },
+    {
+        "name": "Nate",
+        "img_url": "https://nookipedia.com/w/images/d/d0/Nate_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "August 16",
+            "clothes": [
+                "Spr"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yawww"
+            ]
+        }
+    },
+    {
+        "name": "Nibbles",
+        "img_url": "https://nookipedia.com/w/images/b/b5/Nibbles_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "July 19th",
+            "clothes": [
+                "Watermelon Shirt",
+                "Watermelon Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "iblet"
+            ]
+        }
+    },
+    {
+        "name": "Norma",
+        "img_url": null,
+        "data": {
+            "species": "Cow",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "September 20th",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Blue Tartan Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hoof",
+                "hoo"
+            ]
+        }
+    },
+    {
+        "name": "O'Hare",
+        "img_url": null,
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Cranky (Animal Crossing)Smug (New Leaf)",
+            "birthday": "July 24th",
+            "clothes": [
+                "Blue Aloha Tee"
+            ],
+            "starsign": " (ACGC & DnM e+)",
+            "phrase": [
+                "amigo"
+            ]
+        }
+    },
+    {
+        "name": "Octavian",
+        "img_url": "https://nookipedia.com/w/images/e/e0/Octavian_NLa.png",
+        "data": {
+            "species": "Octopus",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "September 20th",
+            "clothes": [
+                "Big-Star Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sucker"
+            ]
+        }
+    },
+    {
+        "name": "Olaf",
+        "img_url": null,
+        "data": {
+            "species": "Anteater",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "May 19th",
+            "clothes": [
+                "Matador"
+            ],
+            "starsign": null,
+            "phrase": [
+                "whiffa"
+            ]
+        }
+    },
+    {
+        "name": "Olive",
+        "img_url": null,
+        "data": {
+            "species": "Cub",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "July 12th",
+            "clothes": [
+                "Dapper Shirt",
+                "Dapper Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sweet",
+                "pea"
+            ]
+        }
+    },
+    {
+        "name": "Olivia",
+        "img_url": "https://nookipedia.com/w/images/c/ce/Olivia_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "February 3rd",
+            "clothes": [
+                "Floral Knit Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "purrr"
+            ]
+        }
+    },
+    {
+        "name": "Opal",
+        "img_url": "https://nookipedia.com/w/images/5/5f/Opal_NLa.png",
+        "data": {
+            "species": "Elephant",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "January 20th",
+            "clothes": [
+                "Gray Tartan",
+                "Gray Tartan Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "soot"
+            ]
+        }
+    },
+    {
+        "name": "Orville",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Ozzie",
+        "img_url": "https://nookipedia.com/w/images/9/93/Ozzie_NLa.png",
+        "data": {
+            "species": "Koala",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "May 7th",
+            "clothes": [
+                "Giraffe Print",
+                "Giraffe Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ol",
+                "bear"
+            ]
+        }
+    },
+    {
+        "name": "Pancetti",
+        "img_url": null,
+        "data": {
+            "species": "Pig",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 14th",
+            "clothes": [
+                "Can"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sooey"
+            ]
+        }
+    },
+    {
+        "name": "Pango",
+        "img_url": "https://nookipedia.com/w/images/2/22/Pango_NLa.png",
+        "data": {
+            "species": "Anteater",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "November 9",
+            "clothes": [
+                "Subdued-Print Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sooooof"
+            ]
+        }
+    },
+    {
+        "name": "Paolo",
+        "img_url": null,
+        "data": {
+            "species": "Elephant",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "May 5th",
+            "clothes": [
+                "I ❤️ 64 Shirt",
+                "Pastel-Stripe Tee",
+                "Cherry Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pal"
+            ]
+        }
+    },
+    {
+        "name": "Papi",
+        "img_url": null,
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "January 10th",
+            "clothes": [
+                "Spe"
+            ],
+            "starsign": null,
+            "phrase": [
+                "haaay"
+            ]
+        }
+    },
+    {
+        "name": "Pashmina",
+        "img_url": null,
+        "data": {
+            "species": "Goat",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "December 26th",
+            "clothes": [
+                "Corse"
+            ],
+            "starsign": null,
+            "phrase": [
+                "kidders"
+            ]
+        }
+    },
+    {
+        "name": "Pate",
+        "img_url": "https://nookipedia.com/w/images/b/b2/Pate_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 23rd",
+            "clothes": [
+                "Winte"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quackle"
+            ]
+        }
+    },
+    {
+        "name": "Patty",
+        "img_url": "https://nookipedia.com/w/images/f/fc/Patty_NLa.png",
+        "data": {
+            "species": "Cow",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "May 10th",
+            "clothes": [
+                "Citrus Shirt",
+                "Citrus Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "how",
+                "ow"
+            ]
+        }
+    },
+    {
+        "name": "Paula",
+        "img_url": "https://nookipedia.com/w/images/4/4b/Paula_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Female",
+            "personality": "PeppyUchi",
+            "birthday": "March 22",
+            "clothes": [
+                "Denim Shirt",
+                "Pep-Squad Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yodelay"
+            ]
+        }
+    },
+    {
+        "name": "Pavé",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "March 3rd",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Peaches",
+        "img_url": "https://nookipedia.com/w/images/2/2f/Peaches_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "November 28th",
+            "clothes": [
+                "Lite Polka Shirt",
+                "Lite Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "eighbor"
+            ]
+        }
+    },
+    {
+        "name": "Peanut",
+        "img_url": "https://nookipedia.com/w/images/2/29/Peanut_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "June 8th",
+            "clothes": [
+                "Beatnik Shirt",
+                "Beatnik Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "slacker"
+            ]
+        }
+    },
+    {
+        "name": "Pecan",
+        "img_url": "https://nookipedia.com/w/images/9/94/Pecan_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "September 10th",
+            "clothes": [
+                "Red Check Shirt",
+                "Red Check Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chipmuk"
+            ]
+        }
+    },
+    {
+        "name": "Peck",
+        "img_url": null,
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "July 25th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "cruch"
+            ]
+        }
+    },
+    {
+        "name": "Peewee",
+        "img_url": "https://nookipedia.com/w/images/f/ff/Peewee_NLa.png",
+        "data": {
+            "species": "Gorilla",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "September 11th",
+            "clothes": [
+                "Five-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "Lil",
+                "dude"
+            ]
+        }
+    },
+    {
+        "name": "Peggy",
+        "img_url": "https://nookipedia.com/w/images/5/5f/Peggy_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "May 23rd",
+            "clothes": [
+                "Blue Stripe Knit",
+                "Blue-Stripe Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "shweetie"
+            ]
+        }
+    },
+    {
+        "name": "Pekoe",
+        "img_url": "https://nookipedia.com/w/images/0/06/Pekoe_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "May 18th",
+            "clothes": [
+                "Hot Spring Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bud"
+            ]
+        }
+    },
+    {
+        "name": "Penelope",
+        "img_url": null,
+        "data": {
+            "species": "Mouse",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 5th",
+            "clothes": [
+                "Pink "
+            ],
+            "starsign": null,
+            "phrase": [
+                "oh",
+                "bow"
+            ]
+        }
+    },
+    {
+        "name": "Phil",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "November 27th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "Hurk"
+            ]
+        }
+    },
+    {
+        "name": "Phoebe",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "April 22nd",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "sparky"
+            ]
+        }
+    },
+    {
+        "name": "Pierce",
+        "img_url": "https://nookipedia.com/w/images/3/38/Pierce_NLa.png",
+        "data": {
+            "species": "Eagle",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "January 8th",
+            "clothes": [
+                "Circus Shirt",
+                "Camel Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "wiger",
+                "hawkeye"
+            ]
+        }
+    },
+    {
+        "name": "Pietro",
+        "img_url": null,
+        "data": {
+            "species": "Sheep",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "April 19th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "hok",
+                "hok"
+            ]
+        }
+    },
+    {
+        "name": "Pinky",
+        "img_url": "https://nookipedia.com/w/images/5/57/Pinky_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "September 9",
+            "clothes": [
+                "Dazed Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cubbie",
+                "wah"
+            ]
+        }
+    },
+    {
+        "name": "Piper",
+        "img_url": null,
+        "data": {
+            "species": "Bird",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "April 18th",
+            "clothes": [
+                "Striking Outfit",
+                "Tropical Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chickadee"
+            ]
+        }
+    },
+    {
+        "name": "Pippy",
+        "img_url": "https://nookipedia.com/w/images/6/64/Pippy_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "June 14th",
+            "clothes": [
+                "Ugly Shirt",
+                "Mint Gingham Top",
+                "Mint Gingham Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "lil",
+                "hare"
+            ]
+        }
+    },
+    {
+        "name": "Player",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "Varies",
+            "clothes": [
+                ""
+            ],
+            "starsign": "{{{sign}}}",
+            "phrase": []
+        }
+    },
+    {
+        "name": "Plucky",
+        "img_url": null,
+        "data": {
+            "species": "Chicken",
+            "gender": "Female",
+            "personality": "Peppy (Animal Crossing) Uchi (Animal Crossing: New Leaf - Welcome amiibo)",
+            "birthday": "October 12th",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Cool Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chicky-poo"
+            ]
+        }
+    },
+    {
+        "name": "Pompom",
+        "img_url": "https://nookipedia.com/w/images/6/6e/Pompom_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 11th",
+            "clothes": [
+                "No. 4 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "rah",
+                "rah"
+            ]
+        }
+    },
+    {
+        "name": "Poncho",
+        "img_url": "https://nookipedia.com/w/images/f/fa/Poncho_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "January 2nd",
+            "clothes": [
+                "Blue Grid Shirt",
+                "Blue-Grid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "lil",
+                "bear"
+            ]
+        }
+    },
+    {
+        "name": "Poppy",
+        "img_url": "https://nookipedia.com/w/images/b/b9/Poppy_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "August 5th",
+            "clothes": [
+                "Rally Shirt",
+                "Rally Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "utty"
+            ]
+        }
+    },
+    {
+        "name": "Portia",
+        "img_url": "https://nookipedia.com/w/images/5/5c/Portia_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "October 25th",
+            "clothes": [
+                "Polar Fleece",
+                "Blue Diamond Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ruffia"
+            ]
+        }
+    },
+    {
+        "name": "Prince",
+        "img_url": "https://nookipedia.com/w/images/3/3f/Prince_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "July 21st",
+            "clothes": [
+                "Yellow Bar Shirt",
+                "Yellow-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "burrup"
+            ]
+        }
+    },
+    {
+        "name": "Puck",
+        "img_url": "https://nookipedia.com/w/images/b/bc/Puck_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "February 21st",
+            "clothes": [
+                "BB Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "brrrrrrrrr"
+            ]
+        }
+    },
+    {
+        "name": "Puddles",
+        "img_url": "https://nookipedia.com/w/images/a/a0/Puddles_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "January 13th",
+            "clothes": [
+                "Lovely Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "splish"
+            ]
+        }
+    },
+    {
+        "name": "Pudge",
+        "img_url": "https://nookipedia.com/w/images/d/dc/Pudge_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 11th",
+            "clothes": [
+                "Green Ring Shirt",
+                "Chichi-Print Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pudgy"
+            ]
+        }
+    },
+    {
+        "name": "Punchy",
+        "img_url": "https://nookipedia.com/w/images/f/f0/Punchy_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "April 11th",
+            "clothes": [
+                "I ❤️ GC Shirt",
+                "Cherry Top",
+                "Gray Tartan",
+                "Gray Tartan Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mrmpht"
+            ]
+        }
+    },
+    {
+        "name": "Purrl",
+        "img_url": "https://nookipedia.com/w/images/a/ab/Purrl_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "May 29th",
+            "clothes": [
+                "Moody Blue Shirt",
+                "Periwinkle Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "kitte"
+            ]
+        }
+    },
+    {
+        "name": "Queenie",
+        "img_url": "https://nookipedia.com/w/images/2/27/Queenie_NLa.png",
+        "data": {
+            "species": "Ostrich",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 13th",
+            "clothes": [
+                "Laced Shirt",
+                "Amethyst Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chicke"
+            ]
+        }
+    },
+    {
+        "name": "Quillson",
+        "img_url": null,
+        "data": {
+            "species": "Duck",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "December 22nd",
+            "clothes": [
+                "Tan P"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ridukulous"
+            ]
+        }
+    },
+    {
+        "name": "Raddle",
+        "img_url": null,
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 6th",
+            "clothes": [
+                "Blue Aloha Shirt', '*', \"Doctor's Coat"
+            ],
+            "starsign": null,
+            "phrase": [
+                "aaach—"
+            ]
+        }
+    },
+    {
+        "name": "Rasher",
+        "img_url": "https://nookipedia.com/w/images/e/e1/Rasher_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "April 7th",
+            "clothes": [
+                "Three-Arc Shirt",
+                "Fortune Shirt",
+                "Rugby Shirt",
+                "Rugby Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "swie"
+            ]
+        }
+    },
+    {
+        "name": "Raymond",
+        "img_url": null,
+        "data": {
+            "species": "Cat",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "crisp"
+            ]
+        }
+    },
+    {
+        "name": "User:Vmario97/Raymond",
+        "img_url": null,
+        "data": {
+            "species": "Cat",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Reneigh",
+        "img_url": null,
+        "data": {
+            "species": "Horse",
+            "gender": "Female",
+            "personality": "Uchi[1]",
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "ayup",
+                "yup",
+                "2"
+            ]
+        }
+    },
+    {
+        "name": "Renée",
+        "img_url": null,
+        "data": {
+            "species": "Rhino",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "May 28th",
+            "clothes": [
+                "Sai"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yo",
+                "yo",
+                "yo"
+            ]
+        }
+    },
+    {
+        "name": "Rex",
+        "img_url": null,
+        "data": {
+            "species": "Lion",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "July 24th",
+            "clothes": [
+                "Blue Pinstripe",
+                "Blue-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cool-cat"
+            ]
+        }
+    },
+    {
+        "name": "Rhonda",
+        "img_url": "https://nookipedia.com/w/images/0/07/Rhonda_NLa.png",
+        "data": {
+            "species": "Rhino",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "January 24th",
+            "clothes": [
+                "Corseted Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bigfoot"
+            ]
+        }
+    },
+    {
+        "name": "Ribbot",
+        "img_url": "https://nookipedia.com/w/images/1/15/Ribbot_NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "February 13th",
+            "clothes": [
+                "Pulse Shirt",
+                "Lightning Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "zzrrbbitt"
+            ]
+        }
+    },
+    {
+        "name": "Ricky",
+        "img_url": "https://nookipedia.com/w/images/8/83/Ricky_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "September 14th",
+            "clothes": [
+                "Three-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "utcase"
+            ]
+        }
+    },
+    {
+        "name": "Rizzo",
+        "img_url": "https://nookipedia.com/w/images/8/83/Rizzo_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "January 17th",
+            "clothes": [
+                "Lavender Robe",
+                "Casual Outfit",
+                "Ninja Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "squee"
+            ]
+        }
+    },
+    {
+        "name": "Roald",
+        "img_url": "https://nookipedia.com/w/images/b/b4/Roald_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "January 5th",
+            "clothes": [
+                "Café Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "b-b-buddy"
+            ]
+        }
+    },
+    {
+        "name": "Robin",
+        "img_url": "https://nookipedia.com/w/images/9/94/Robin_NLa.png",
+        "data": {
+            "species": "Bird",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "December 4th",
+            "clothes": [
+                "Kiwi Shirt",
+                "Kiwi Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "la-di-da",
+                "(EN)",
+                "tweet-tawoo"
+            ]
+        }
+    },
+    {
+        "name": "Rocco",
+        "img_url": "https://nookipedia.com/w/images/c/cb/Rocco_NLa.png",
+        "data": {
+            "species": "Hippo",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "August 18th",
+            "clothes": [
+                "Danger Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hippie"
+            ]
+        }
+    },
+    {
+        "name": "Rocket",
+        "img_url": null,
+        "data": {
+            "species": "Gorilla",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "April 14th",
+            "clothes": [
+                "No"
+            ],
+            "starsign": null,
+            "phrase": [
+                "vroom"
+            ]
+        }
+    },
+    {
+        "name": "Rod",
+        "img_url": "https://nookipedia.com/w/images/6/64/Rod_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 14th",
+            "clothes": [
+                "Zip"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ace"
+            ]
+        }
+    },
+    {
+        "name": "Rodeo",
+        "img_url": "https://nookipedia.com/w/images/f/ff/Rodeo_NLa.png",
+        "data": {
+            "species": "Bull",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 29th",
+            "clothes": [
+                "Beatnik Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chaps"
+            ]
+        }
+    },
+    {
+        "name": "Rodney",
+        "img_url": null,
+        "data": {
+            "species": "Hamster",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "November 10th",
+            "clothes": [
+                "Re"
+            ],
+            "starsign": null,
+            "phrase": [
+                "le",
+                "ham"
+            ]
+        }
+    },
+    {
+        "name": "Rolf",
+        "img_url": "https://nookipedia.com/w/images/f/f3/Rolf_NLa.png",
+        "data": {
+            "species": "Tiger",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "August 22nd",
+            "clothes": [
+                "Bubble Shirt",
+                "Bubble Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grrrolf"
+            ]
+        }
+    },
+    {
+        "name": "Rooney",
+        "img_url": null,
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 1st",
+            "clothes": [
+                "Black Tra"
+            ],
+            "starsign": null,
+            "phrase": [
+                "puches"
+            ]
+        }
+    },
+    {
+        "name": "Rory",
+        "img_url": "https://nookipedia.com/w/images/d/d7/Rory_NLa.png",
+        "data": {
+            "species": "Lion",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 7st",
+            "clothes": [
+                "Periw"
+            ],
+            "starsign": null,
+            "phrase": [
+                "capital"
+            ]
+        }
+    },
+    {
+        "name": "Roscoe",
+        "img_url": "https://nookipedia.com/w/images/1/10/Roscoe_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "June 16th",
+            "clothes": [
+                "Checkered Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ay"
+            ]
+        }
+    },
+    {
+        "name": "Rosie",
+        "img_url": "https://nookipedia.com/w/images/a/a1/Rosie_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 27th",
+            "clothes": [
+                "Shortcake Shirt",
+                "Dazed Shirt",
+                "Dazed Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "silly"
+            ]
+        }
+    },
+    {
+        "name": "Rowan",
+        "img_url": "https://nookipedia.com/w/images/7/74/Rowan_NLa.png",
+        "data": {
+            "species": "Tiger",
+            "gender": "Male",
+            "personality": "Cranky (Animal Crossing)Jock (Wild World onwards)",
+            "birthday": "August 26th",
+            "clothes": [
+                "Blue Aloha Shirt",
+                "Aqua Polka Shirt",
+                "Aqua Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "speedy",
+                "mago"
+            ]
+        }
+    },
+    {
+        "name": "Ruby",
+        "img_url": "https://nookipedia.com/w/images/9/9f/Ruby_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "December 25th",
+            "clothes": [
+                "Bunny Shirt",
+                "Bunny Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "lil",
+                "ears"
+            ]
+        }
+    },
+    {
+        "name": "Rudy",
+        "img_url": null,
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "December 20th",
+            "clothes": [
+                "Red"
+            ],
+            "starsign": null,
+            "phrase": [
+                "mush"
+            ]
+        }
+    },
+    {
+        "name": "Sable",
+        "img_url": "https://nookipedia.com/w/images/e/ef/Sable_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "November 22nd",
+            "clothes": [
+                ""
+            ],
+            "starsign": " ",
+            "phrase": []
+        }
+    },
+    {
+        "name": "Saharah",
+        "img_url": "https://nookipedia.com/w/images/a/a0/Saharah_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "November 10th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Sally",
+        "img_url": "https://nookipedia.com/w/images/5/54/Sally_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "June 19th",
+            "clothes": [
+                "Neo-Classic Knit",
+                "Icy Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "utmeg"
+            ]
+        }
+    },
+    {
+        "name": "Samson",
+        "img_url": "https://nookipedia.com/w/images/1/1e/Samson_NLa.png",
+        "data": {
+            "species": "Mouse",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "July 5th",
+            "clothes": [
+                "Airy Tee"
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Sandy",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "October 21st",
+            "clothes": [
+                "Blue Scale Shirt",
+                "Chain-Gang Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "speedy"
+            ]
+        }
+    },
+    {
+        "name": "Savannah",
+        "img_url": "https://nookipedia.com/w/images/2/29/Savannah_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "January 25th",
+            "clothes": [
+                "Deep-Blue Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yall"
+            ]
+        }
+    },
+    {
+        "name": "Scoot",
+        "img_url": "https://nookipedia.com/w/images/d/d9/Scoot_NLa.png",
+        "data": {
+            "species": "Duck",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "June 13th",
+            "clothes": [
+                "Frog Shirt",
+                "Frog Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "zip",
+                "zoom"
+            ]
+        }
+    },
+    {
+        "name": "Shari",
+        "img_url": null,
+        "data": {
+            "species": "Monkey",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "April 10th",
+            "clothes": [
+                "Silk "
+            ],
+            "starsign": null,
+            "phrase": [
+                "cheeky"
+            ]
+        }
+    },
+    {
+        "name": "Sheldon",
+        "img_url": null,
+        "data": {
+            "species": "Squirrel",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "February 26th",
+            "clothes": [
+                "Tig"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cardio"
+            ]
+        }
+    },
+    {
+        "name": "Shep",
+        "img_url": null,
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "November 24th",
+            "clothes": [
+                "D"
+            ],
+            "starsign": null,
+            "phrase": [
+                "baaa",
+                "ma"
+            ]
+        }
+    },
+    {
+        "name": "Sherb",
+        "img_url": null,
+        "data": {
+            "species": "Goat",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "bawwww"
+            ]
+        }
+    },
+    {
+        "name": "Simon",
+        "img_url": "https://nookipedia.com/w/images/b/b0/Simon_NLa.png",
+        "data": {
+            "species": "Monkey",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "January 19th",
+            "clothes": [
+                "Red Bar Shirt",
+                "Red-Bar Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "zzzook"
+            ]
+        }
+    },
+    {
+        "name": "Skye",
+        "img_url": null,
+        "data": {
+            "species": "Wolf",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "March 24th",
+            "clothes": [
+                "Spr"
+            ],
+            "starsign": null,
+            "phrase": [
+                "airmail"
+            ]
+        }
+    },
+    {
+        "name": "Sly",
+        "img_url": null,
+        "data": {
+            "species": "Alligator",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "November 15th",
+            "clothes": [
+                "Jungle"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hoo-rah"
+            ]
+        }
+    },
+    {
+        "name": "Snake",
+        "img_url": "https://nookipedia.com/w/images/6/61/Snake_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "November 3rd",
+            "clothes": [
+                "Zip"
+            ],
+            "starsign": null,
+            "phrase": [
+                "buyip"
+            ]
+        }
+    },
+    {
+        "name": "Snooty (villager)",
+        "img_url": null,
+        "data": {
+            "species": "Anteater",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": null,
+            "clothes": [
+                "Blossoming Shirt",
+                "Misty Tee"
+            ],
+            "starsign": " Scorpio",
+            "phrase": [
+                "siffff"
+            ]
+        }
+    },
+    {
+        "name": "Snow People",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Soleil",
+        "img_url": null,
+        "data": {
+            "species": "Hamster",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "August 9th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "taratio"
+            ]
+        }
+    },
+    {
+        "name": "Sparro",
+        "img_url": null,
+        "data": {
+            "species": "Bird",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "November 20th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "like",
+                "whoa"
+            ]
+        }
+    },
+    {
+        "name": "Spike",
+        "img_url": null,
+        "data": {
+            "species": "Rhino",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "June 17th",
+            "clothes": [
+                "Skull Shirt",
+                "Skull Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "puk"
+            ]
+        }
+    },
+    {
+        "name": "Spork",
+        "img_url": "https://nookipedia.com/w/images/1/11/Spork_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "September 3rd",
+            "clothes": [
+                "Jade Check Print",
+                "Jade Plaid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sork"
+            ]
+        }
+    },
+    {
+        "name": "Sprinkle",
+        "img_url": null,
+        "data": {
+            "species": "Penguin",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "February 20th",
+            "clothes": [
+                ""
+            ],
+            "starsign": null,
+            "phrase": [
+                "frappe"
+            ]
+        }
+    },
+    {
+        "name": "Sprocket",
+        "img_url": null,
+        "data": {
+            "species": "Ostrich",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "December 1st",
+            "clothes": [
+                "No. 67 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "zort"
+            ]
+        }
+    },
+    {
+        "name": "Static",
+        "img_url": "https://nookipedia.com/w/images/7/7b/Static_NLa.png",
+        "data": {
+            "species": "Squirrel",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "July 9th",
+            "clothes": [
+                "Melon Shirt",
+                "Melon Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "krzzt"
+            ]
+        }
+    },
+    {
+        "name": "Stella",
+        "img_url": null,
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "April 9th",
+            "clothes": [
+                "Aurora Knit Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "baa-dabig"
+            ]
+        }
+    },
+    {
+        "name": "Sterling",
+        "img_url": "https://nookipedia.com/w/images/7/71/Sterling_NLa.png",
+        "data": {
+            "species": "Eagle",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "December 11th",
+            "clothes": [
+                "Scale-Armor Suit"
+            ],
+            "starsign": null,
+            "phrase": [
+                "skraaaaw"
+            ]
+        }
+    },
+    {
+        "name": "Stinky",
+        "img_url": "https://nookipedia.com/w/images/b/b7/Stinky_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 17th",
+            "clothes": [
+                "Splendid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "GAAHHH"
+            ]
+        }
+    },
+    {
+        "name": "Stitches",
+        "img_url": "https://nookipedia.com/w/images/b/b1/Stitches_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "February 10th",
+            "clothes": [
+                "Star Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "stuffi"
+            ]
+        }
+    },
+    {
+        "name": "Stu",
+        "img_url": null,
+        "data": {
+            "species": "Bull",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "April 20th",
+            "clothes": [
+                "Seven-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "moo-dude"
+            ]
+        }
+    },
+    {
+        "name": "Sydney",
+        "img_url": "https://nookipedia.com/w/images/f/f2/Sydney_NLa.png",
+        "data": {
+            "species": "Koala",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "June 21st",
+            "clothes": [
+                "Big Dot Shirt",
+                "Big-Dot Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sushie"
+            ]
+        }
+    },
+    {
+        "name": "Sylvana",
+        "img_url": null,
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "October 22nd",
+            "clothes": [
+                "Kiwi Shirt",
+                "Kiwi Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hubbub"
+            ]
+        }
+    },
+    {
+        "name": "Sylvia",
+        "img_url": null,
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Female",
+            "personality": "Snooty (Doubutsu no Mori e+)Uchi (Animal Crossing: New Leaf)",
+            "birthday": "May 3rd",
+            "clothes": [
+                "Yellow Aloha Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "joey"
+            ]
+        }
+    },
+    {
+        "name": "T-Bone",
+        "img_url": "https://nookipedia.com/w/images/e/ec/T-Bone_NLa.png",
+        "data": {
+            "species": "Bull",
+            "gender": "Male",
+            "personality": "Lazy (Animal Crossing)Cranky (New Leaf onwards)",
+            "birthday": "May 20th",
+            "clothes": [
+                "Yellow Pinstripe",
+                "Hanten Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "moocher"
+            ]
+        }
+    },
+    {
+        "name": "Tabby",
+        "img_url": "https://nookipedia.com/w/images/c/c6/Tabby_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "August 13th",
+            "clothes": [
+                "Tomato Juice Shirt",
+                "Fish Bone Shirt",
+                "Bone Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "me-WOW"
+            ]
+        }
+    },
+    {
+        "name": "Tad",
+        "img_url": null,
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 3rd",
+            "clothes": [
+                "One-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sluuuurp"
+            ]
+        }
+    },
+    {
+        "name": "Tammi",
+        "img_url": "https://nookipedia.com/w/images/7/71/Tammi_NLa.png",
+        "data": {
+            "species": "Monkey",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "April 1stApril 2nd",
+            "clothes": [
+                "New Spring Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "chimpy"
+            ]
+        }
+    },
+    {
+        "name": "Tammy",
+        "img_url": null,
+        "data": {
+            "species": "Cub",
+            "gender": "Female",
+            "personality": "Uchi",
+            "birthday": "June 23rd",
+            "clothes": [
+                "R"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ya",
+                "heard"
+            ]
+        }
+    },
+    {
+        "name": "Tangy",
+        "img_url": "https://nookipedia.com/w/images/6/67/Tangy_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "June 17th",
+            "clothes": [
+                "Chain-Gang Shirt",
+                "Chain-Gang Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "reeeeOWR"
+            ]
+        }
+    },
+    {
+        "name": "Tank",
+        "img_url": "https://nookipedia.com/w/images/c/c6/Tank_NLa.png",
+        "data": {
+            "species": "Rhino",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "May 6th",
+            "clothes": [
+                "No. 1 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "kerPOW"
+            ]
+        }
+    },
+    {
+        "name": "Tasha",
+        "img_url": null,
+        "data": {
+            "species": "Squirrel",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 30th",
+            "clothes": [
+                "Leather Jerkin",
+                "Shearling Coat"
+            ],
+            "starsign": null,
+            "phrase": [
+                "ice",
+                "ice"
+            ]
+        }
+    },
+    {
+        "name": "Teddy",
+        "img_url": "https://nookipedia.com/w/images/6/6b/Teddy_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "September 26",
+            "clothes": [
+                "Club Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grooof"
+            ]
+        }
+    },
+    {
+        "name": "Tex",
+        "img_url": null,
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "October 6th",
+            "clothes": [
+                "Blue Lett"
+            ],
+            "starsign": null,
+            "phrase": [
+                "picate"
+            ]
+        }
+    },
+    {
+        "name": "Tia",
+        "img_url": null,
+        "data": {
+            "species": "Elephant",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "November 18th",
+            "clothes": [
+                "Ga"
+            ],
+            "starsign": null,
+            "phrase": [
+                "teacup"
+            ]
+        }
+    },
+    {
+        "name": "Tiffany",
+        "img_url": "https://nookipedia.com/w/images/8/8d/Tiffany_NLa.png",
+        "data": {
+            "species": "Rabbit",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "January 9th",
+            "clothes": [
+                "Spiderweb Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bu",
+                "bu"
+            ]
+        }
+    },
+    {
+        "name": "Timbra",
+        "img_url": null,
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "October 21st",
+            "clothes": [
+                "Gi"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pie",
+                "ut"
+            ]
+        }
+    },
+    {
+        "name": "Timmy and Tommy",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "June 7th",
+            "clothes": null,
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "Tipper",
+        "img_url": "https://nookipedia.com/w/images/0/0f/Tipper_NLa.png",
+        "data": {
+            "species": "Cow",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "August 25th",
+            "clothes": [
+                "Rainbow Shirt",
+                "Rainbow Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "pushy"
+            ]
+        }
+    },
+    {
+        "name": "Tom",
+        "img_url": "https://nookipedia.com/w/images/8/88/Tom_NLa.png",
+        "data": {
+            "species": "Cat",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 10th",
+            "clothes": [
+                "BB Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "me-YOWZA"
+            ]
+        }
+    },
+    {
+        "name": "Tom Nook",
+        "img_url": "https://nookipedia.com/w/images/7/7e/Tom_Nook_NLa.png",
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "May 30th",
+            "clothes": null,
+            "starsign": null,
+            "phrase": []
+        }
+    },
+    {
+        "name": "User:Vmario97/Cyd",
+        "img_url": null,
+        "data": {
+            "species": "Elephant",
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": null,
+            "starsign": null,
+            "phrase": [
+                "rocki"
+            ]
+        }
+    },
+    {
+        "name": "Truffles",
+        "img_url": "https://nookipedia.com/w/images/9/9b/Truffles_NLa.png",
+        "data": {
+            "species": "Pig",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "July 28th",
+            "clothes": [
+                "Turnip Top",
+                "Fern Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "soutie"
+            ]
+        }
+    },
+    {
+        "name": "Tucker",
+        "img_url": null,
+        "data": {
+            "species": "Elephant",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "September 7th",
+            "clothes": [
+                "Le"
+            ],
+            "starsign": null,
+            "phrase": [
+                "fuzzers"
+            ]
+        }
+    },
+    {
+        "name": "Tutu",
+        "img_url": "https://nookipedia.com/w/images/0/01/Tutu_NLa.png",
+        "data": {
+            "species": "Bear",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "September 15",
+            "clothes": [
+                "Heart Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "twikles"
+            ]
+        }
+    },
+    {
+        "name": "Twiggy",
+        "img_url": "https://nookipedia.com/w/images/9/9a/Twiggy_NLa.png",
+        "data": {
+            "species": "Bird",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "July 13th",
+            "clothes": [
+                "Barber Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cheepers"
+            ]
+        }
+    },
+    {
+        "name": "Tybalt",
+        "img_url": null,
+        "data": {
+            "species": "Tiger",
+            "gender": "Male",
+            "personality": "Jock",
+            "birthday": "August 19th",
+            "clothes": [
+                "Two-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grrRAH"
+            ]
+        }
+    },
+    {
+        "name": "Ursala",
+        "img_url": null,
+        "data": {
+            "species": "Bear",
+            "gender": "Female",
+            "personality": "Snooty (Animal Crossing) Uchi (Animal Crossing: New Leaf)",
+            "birthday": "January 16th",
+            "clothes": [
+                "Pastel-Stripe Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grooomph"
+            ]
+        }
+    },
+    {
+        "name": "Velma",
+        "img_url": "https://nookipedia.com/w/images/0/06/Velma_NLa.png",
+        "data": {
+            "species": "Goat",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "January 14th",
+            "clothes": [
+                "Cool Shirt",
+                "Swell Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "blih"
+            ]
+        }
+    },
+    {
+        "name": "Vesta",
+        "img_url": "https://nookipedia.com/w/images/0/01/Vesta_NLa.png",
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Normal",
+            "birthday": "April 16th",
+            "clothes": [
+                "Fall Plaid Shirt",
+                "Fall Plaid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "baaaffo"
+            ]
+        }
+    },
+    {
+        "name": "Vic",
+        "img_url": null,
+        "data": {
+            "species": "Bull",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "December 29th",
+            "clothes": [
+                "Scale-A"
+            ],
+            "starsign": null,
+            "phrase": [
+                "cud"
+            ]
+        }
+    },
+    {
+        "name": "Victoria",
+        "img_url": "https://nookipedia.com/w/images/d/dd/Victoria_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "July 11th",
+            "clothes": [
+                "Racer 6 Shirt",
+                "One-Ball Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sugar",
+                "cube"
+            ]
+        }
+    },
+    {
+        "name": "Violet",
+        "img_url": "https://nookipedia.com/w/images/4/41/Violet_NLa.png",
+        "data": {
+            "species": "Gorilla",
+            "gender": "Female",
+            "personality": "Peppy (Animal Forest e+)Snooty (City Folk onwards)",
+            "birthday": "September 1st",
+            "clothes": [
+                "Red Aloha Shirt",
+                "Misty Shirt",
+                "Misty Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "faboom",
+                "sweetie"
+            ]
+        }
+    },
+    {
+        "name": "Vivian",
+        "img_url": null,
+        "data": {
+            "species": "Wolf",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "January 26th",
+            "clothes": [
+                "Subdued Print",
+                "Dogtooth Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "piffle"
+            ]
+        }
+    },
+    {
+        "name": "Vladimir",
+        "img_url": "https://nookipedia.com/w/images/8/84/Vladimir_NLa.png",
+        "data": {
+            "species": "Cub",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "August 2nd",
+            "clothes": [
+                "Tiger Print",
+                "Lite Polka Shirt",
+                "Lite Polka Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "yet"
+            ]
+        }
+    },
+    {
+        "name": "Wade",
+        "img_url": "https://nookipedia.com/w/images/e/eb/Wade_NLa.png",
+        "data": {
+            "species": "Penguin",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "October 30th",
+            "clothes": [
+                "Spade Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "so it goes"
+            ]
+        }
+    },
+    {
+        "name": "Walker",
+        "img_url": "https://nookipedia.com/w/images/1/14/Walker_NLa.png",
+        "data": {
+            "species": "Dog",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 10th",
+            "clothes": [
+                "No. 67 Shirt"
+            ],
+            "starsign": null,
+            "phrase": [
+                "wuh"
+            ]
+        }
+    },
+    {
+        "name": "Walt",
+        "img_url": null,
+        "data": {
+            "species": "Kangaroo",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "April 24th",
+            "clothes": null,
+            "starsign": null,
+            "phrase": [
+                "pockets"
+            ]
+        }
+    },
+    {
+        "name": "Wart Jr.",
+        "img_url": "https://nookipedia.com/w/images/5/50/Wart_Jr._NLa.png",
+        "data": {
+            "species": "Frog",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "August 21st",
+            "clothes": [
+                "Static Shirt",
+                "Sharp Outfit"
+            ],
+            "starsign": null,
+            "phrase": [
+                "grr-ribbit"
+            ]
+        }
+    },
+    {
+        "name": "Weber",
+        "img_url": null,
+        "data": {
+            "species": "Duck",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "June 30th",
+            "clothes": [
+                "Fish Knit",
+                "Bubble Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "quaa"
+            ]
+        }
+    },
+    {
+        "name": "Wendy",
+        "img_url": "https://nookipedia.com/w/images/6/65/Wendy_NLa.png",
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "August 15th",
+            "clothes": [
+                "Watermelon Shirt",
+                "Watermelon Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "lambkis"
+            ]
+        }
+    },
+    {
+        "name": "Whitney",
+        "img_url": "https://nookipedia.com/w/images/2/21/Whitney_NLa.png",
+        "data": {
+            "species": "Wolf",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "September 17th",
+            "clothes": [
+                "Floral Knit Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sappy"
+            ]
+        }
+    },
+    {
+        "name": "Wilbur",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": null,
+            "clothes": null,
+            "starsign": null,
+            "phrase": null
+        }
+    },
+    {
+        "name": "Willow",
+        "img_url": "https://nookipedia.com/w/images/f/f6/Willow_NLa.png",
+        "data": {
+            "species": "Sheep",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "November 26th",
+            "clothes": [
+                "Bad Plaid Shirt",
+                "Bad Plaid Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "bo",
+                "peep"
+            ]
+        }
+    },
+    {
+        "name": "Winnie",
+        "img_url": "https://nookipedia.com/w/images/a/a9/Winnie_NLa.png",
+        "data": {
+            "species": "Horse",
+            "gender": "Female",
+            "personality": "Peppy",
+            "birthday": "January 31st",
+            "clothes": [
+                "Cow Shirt",
+                "Cow Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "hay-OK"
+            ]
+        }
+    },
+    {
+        "name": "Wisp",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "February 26th",
+            "clothes": null,
+            "starsign": null,
+            "phrase": null
+        }
+    },
+    {
+        "name": "Wolfgang",
+        "img_url": "https://nookipedia.com/w/images/9/97/Wolfgang_NLa.png",
+        "data": {
+            "species": "Wolf",
+            "gender": "Male",
+            "personality": "Cranky",
+            "birthday": "November 25th",
+            "clothes": [
+                "Gracie Tank"
+            ],
+            "starsign": null,
+            "phrase": [
+                "sarrrl"
+            ]
+        }
+    },
+    {
+        "name": "Yuka",
+        "img_url": "https://nookipedia.com/w/images/7/7b/Yuka_NLa.png",
+        "data": {
+            "species": "Koala",
+            "gender": "Female",
+            "personality": "Snooty",
+            "birthday": "July 20th",
+            "clothes": [
+                "Citrus Gingham",
+                "Lemon Gingham Tee"
+            ],
+            "starsign": null,
+            "phrase": [
+                "tsk, tsk"
+            ]
+        }
+    },
+    {
+        "name": "Zell",
+        "img_url": "https://nookipedia.com/w/images/e/e8/Zell_NLa.png",
+        "data": {
+            "species": "Deer",
+            "gender": "Male",
+            "personality": "Smug",
+            "birthday": "June 7th",
+            "clothes": [
+                "Arctic"
+            ],
+            "starsign": null,
+            "phrase": [
+                "prok"
+            ]
+        }
+    },
+    {
+        "name": "Zipper T. Bunny",
+        "img_url": null,
+        "data": {
+            "species": null,
+            "gender": null,
+            "personality": null,
+            "birthday": "March 11th",
+            "clothes": null,
+            "starsign": null,
+            "phrase": null
+        }
+    },
+    {
+        "name": "Zucker",
+        "img_url": null,
+        "data": {
+            "species": "Octopus",
+            "gender": "Male",
+            "personality": "Lazy",
+            "birthday": "March 8th",
+            "clothes": null,
+            "starsign": null,
+            "phrase": [
+                "bloop"
+            ]
+        }
+    }
+]

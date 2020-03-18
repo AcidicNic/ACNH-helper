@@ -1,0 +1,60 @@
+/* make links look pretty */
+.no_ul, .no_ul:hover, .no_ul:focus {
+    text-decoration: none;
+}
+/* Form File input */
+.hidden {
+    height: 0;
+    width: 0;
+    overflow: hidden;
+}
+.critter_img_btn:hover {
+    cursor: pointer;
+}
+#id_desc {
+    height: 9em;
+}
+#id_info {
+    height: 2.5em;
+}
+
+/* Image sizes! */
+.small-img {
+    max-width: 250px;
+    max-height: 250px;
+}
+.med-img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+/* base stuff */
+.content_wrapper {
+    width: 85%;
+    margin: 0 auto;
+}
+.title{
+    user-select: none;
+}
+.bg-blue {
+    color: #fff;
+    background-color: #82e8ff !important;
+    border-color: #82e8ff !important;
+}
+.bg-blue:hover, .bg-blue:active {
+    background-color: #4bc7e3 !important;
+    border-color: #4bc7e3 !important;
+}
+
+
+
+html, body {
+    min-height: 100vh;
+}
+#main_wrapper {
+    min-height: 90vh;
+    display: block;
+}
+#footer {
+    height: 10vh;
+}
