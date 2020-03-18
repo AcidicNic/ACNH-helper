@@ -9,56 +9,71 @@
     <link rel="stylesheet" href="{% static 'base.css' %}">
     <title>{% block title %}{% endblock %}</title>
 </head>
-<body>
+<body class="bg-lblue">
 
     {# Collapsable Hamburger Navbar#}
     <div class="main_wrapper">
         <div class="pos-f-t sticky-top mb-4" id="navbar">
-            <nav class="navbar navbar-dark bg-primary">
-                <div class='d-flex justify-content-between w-100'>
-                    <div class="d-flex justify-content-start">
+            <div class="light_green rounded-bottom">
+                <nav class="navbar navbar-dark bg-primary rounded-bottom">
+                    <div class='d-flex justify-content-between w-100'>
+                        <div class="d-flex justify-content-start">
 
-                        <span>
-                            <button class="navbar-toggler my-2" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="navbar-toggler-icon"></span>
-                            </button>
-                        </span>
-
-                        {# Heading #}
-                        <a class='h1 no_ul text-white mx-3 title' href='/'>Island Tracker (Nook Inc.) </a>
-                    </div>
-
-                    {#Buttons#}
-                    <div class="d-flex justify-content-end my-2">
-
-                        {% if user.is_authenticated %}
-                            <div class="btn-group ml-3">
-                                <button type="button" class="btn btn-light dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <strong>{{ user.username }}</strong>! {% if user.is_superuser %}(admin){% endif %}
+                            <span>
+                                <button class="navbar-toggler my-2" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
                                 </button>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="{% url 'show_profile' user %}">Profile</a>
-                                    <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="/accounts/logout" class="btn btn-danger ml-3">Log Out</a>
-                                </div>
+                            </span>
+
+                            {# Heading #}
+                            <a class='h1 no_ul text-white mx-3 title' href='/'>Island Tracker (Nook Inc.) </a>
+                        </div>
+
+                        {# Nav btns & search #}
+                        <div class="d-flex justify-content-end my-2">
+                            <div class="d-flex my-auto">
+                                <form action="{% url 'search_all' %}">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" name="query" placeholder="Search" aria-label="Search" aria-describedby="basic-addon2">
+                                        <div class="input-group-append">
+                                            <button class="btn btn-secondary" type="submit"><i class="fas fa-search"></i></button>
+                                        </div>
+                                    </div>
+                                </form>
                             </div>
+                            {% if user.is_authenticated %}
+                                <div class="btn-group ml-3">
+                                    <button type="button" class="btn btn-blue dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <strong>{{ user.username }}</strong> {% if user.is_superuser %}(admin){% endif %}
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="{% url 'show_profile' user %}">Profile</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="/accounts/logout">Log Out</a>
+                                    </div>
+                                </div>
 
-                        {% else %}
-                            <div class="text-white align-middle my-2">Welcome!</div>
+                            {% else %}
+                                <div class="text-white align-middle my-2">Welcome!</div>
 
-                            <span>
-                                <a href="/accounts/login" class="btn btn-primary ml-3">Log In</a>
-                            </span>
-                            <span>
-                                <a href="/accounts/signup" class="btn bg-blue ml-3">Sign Up</a>
-                            </span>
-                        {% endif %}
+                                <span>
+                                    <a href="/accounts/login" class="btn btn-primary ml-3">Log In</a>
+                                </span>
+                                <span>
+                                    <a href="/accounts/signup" class="btn btn-blue ml-3">Sign Up</a>
+                                </span>
+                            {% endif %}
+                        </div>
                     </div>
-                </div>
-            </nav>
-            <div class="collapse" id="navbarToggleExternalContent">
-                <div class="bg-dark text-white px-4 pb-4 pt-3">
-                    This dropdown navbar is still under construction :)
+                </nav>
+<!--                <div class="collapse show" id="navbarToggleExternalContent">-->
+                <div class="collapse" id="navbarToggleExternalContent">
+                    <div class="text-white p-2 d-flex justify-content-center">
+                            <a href="{% url 'list_players' %}" class="btn btn-secondary mx-2">All Players</a>
+                            <a href="{% url 'list_islanders' %}" class="btn btn-blue mx-2">All Islanders</a>
+                            <a href="{% url 'list_bugs' %}" class="btn btn-blue mx-2">All Bugs</a>
+                            <a href="{% url 'list_fish' %}" class="btn btn-blue mx-2">All Fish</a>
+                    </div>
                 </div>
             </div>
             </div>
@@ -71,9 +86,9 @@
     </div>
 
     <!-- Footer!! -->
-    <footer id="footer" class="w-100 text-center p-4 bg-light">
+    <footer id="footer" class="w-100 text-center p-4 light_green rounded-top">
         <div class="d-flex justify-content-center w-100 my-auto">
-            <span class="text-muted mx-3">Animal Crossing: New Horizons Tracker!</span>
+<!--            <span class="text-muted mx-3">Animal Crossing: New Horizons Tracker!</span>-->
             <a class="no_ul text-muted mx-3" href="https://github.com/AcidicNic"><i class="fab fa-github"></i> AcidicNic</a>
         </div>
     </footer>
