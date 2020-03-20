@@ -2,19 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <script src="https://kit.fontawesome.com/e7c15fdb77.js" crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://bootswatch.com/4/minty/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.12/css/bootstrap-select.min.css">
     <link rel="stylesheet" href="{% static 'base.css' %}">
     <title>{% block title %}{% endblock %}</title>
 </head>
-<body class="bg-lblue">
+<body>
 
     {# Collapsable Hamburger Navbar#}
     <div class="main_wrapper">
         <div class="pos-f-t sticky-top mb-4" id="navbar">
-            <div class="light_green rounded-bottom">
+            <div class="bg-lblue rounded-bottom">
                 <nav class="navbar navbar-dark bg-primary rounded-bottom">
                     <div class='d-flex justify-content-between w-100'>
                         <div class="d-flex justify-content-start">
@@ -25,21 +24,21 @@
                                 </button>
                             </span>
 
-                            {# Heading #}
+                            {# Title #}
                             <a class='h1 no_ul text-white mx-3 title' href='/'>Island Tracker (Nook Inc.) </a>
                         </div>
 
                         {# Nav btns & search #}
                         <div class="d-flex justify-content-end my-2">
                             <div class="d-flex my-auto">
-                                <form action="{% url 'search_all' %}">
+                                <form action="{% url 'search_all' %}" style="display: none;" id="search-form"></form>
                                     <div class="input-group">
-                                        <input type="text" class="form-control" name="query" placeholder="Search" aria-label="Search" aria-describedby="basic-addon2">
+                                        <input form="search-form" type="text" class="form-control" name="q" placeholder="Search" aria-label="Search" aria-describedby="basic-addon2">
                                         <div class="input-group-append">
-                                            <button class="btn btn-secondary" type="submit"><i class="fas fa-search"></i></button>
+                                            <button form="search-form" class="btn btn-secondary" type="submit"><i class="fas fa-search"></i></button>
                                         </div>
                                     </div>
-                                </form>
+
                             </div>
                             {% if user.is_authenticated %}
                                 <div class="btn-group ml-3">
@@ -52,10 +51,7 @@
                                         <a class="dropdown-item" href="/accounts/logout">Log Out</a>
                                     </div>
                                 </div>
-
                             {% else %}
-                                <div class="text-white align-middle my-2">Welcome!</div>
-
                                 <span>
                                     <a href="/accounts/login" class="btn btn-primary ml-3">Log In</a>
                                 </span>
@@ -67,12 +63,12 @@
                     </div>
                 </nav>
 <!--                <div class="collapse show" id="navbarToggleExternalContent">-->
-                <div class="collapse" id="navbarToggleExternalContent">
+                <div class="collapse {% block show_drop_nav %}{% endblock %}" id="navbarToggleExternalContent">
                     <div class="text-white p-2 d-flex justify-content-center">
                             <a href="{% url 'list_players' %}" class="btn btn-secondary mx-2">All Players</a>
-                            <a href="{% url 'list_islanders' %}" class="btn btn-blue mx-2">All Islanders</a>
-                            <a href="{% url 'list_bugs' %}" class="btn btn-blue mx-2">All Bugs</a>
-                            <a href="{% url 'list_fish' %}" class="btn btn-blue mx-2">All Fish</a>
+                            <a href="{% url 'list_islanders' %}" class="btn btn-secondary mx-2">All Islanders</a>
+                            <a href="{% url 'list_bugs' %}" class="btn btn-secondary mx-2">All Bugs</a>
+                            <a href="{% url 'list_fish' %}" class="btn btn-secondary mx-2">All Fish</a>
                     </div>
                 </div>
             </div>
@@ -86,14 +82,18 @@
     </div>
 
     <!-- Footer!! -->
-    <footer id="footer" class="w-100 text-center p-4 light_green rounded-top">
+    <footer id="footer" class="w-100 text-center p-4 rounded-top bg-lblue">
         <div class="d-flex justify-content-center w-100 my-auto">
 <!--            <span class="text-muted mx-3">Animal Crossing: New Horizons Tracker!</span>-->
             <a class="no_ul text-muted mx-3" href="https://github.com/AcidicNic"><i class="fab fa-github"></i> AcidicNic</a>
         </div>
     </footer>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/e7c15fdb77.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.12/js/bootstrap-select.min.js"></script>
 
 </body>
 </html>

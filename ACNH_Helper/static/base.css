@@ -50,12 +50,26 @@
     background-color: #82e8ff !important;
 }
 
-.light_green {
-    background-color: #cdfaf7;
+.nav_bar {
+    /*background-color: #A7EEFF;*/
 }
 
 .w-85 {
     width: 85%;
+}
+.profile-img-div {
+    width: 20vw;
+    height: 20vw;
+    overflow: hidden;
+    border: solid 1px;
+}
+.profile-img {
+    width: 20vw;
+    height: 20vw;
+}
+
+body {
+    background-color: #a7eeff;
 }
 
 /* Footer */
@@ -68,5 +82,5 @@ html, body {
 }
 #footer {
     height: 10vh;
-    /*background-color: #d4faf7;*/
+    background-color: #A7EEFF;
 }
