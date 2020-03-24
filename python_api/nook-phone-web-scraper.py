@@ -12,9 +12,10 @@ def get_all_villagers():
     data = get_villagers()
     return jsonify({'villagers': data})
 
-# @app.route('/getVillagerData/<str:name>', methods=['GET'])
-# def get_villager_data(name):
-#     return jsonify({'data': villager_lookup(name)})
+
+@app.route('/getVillagerData/<str:name>', methods=['GET'])
+def get_villager_data(name):
+    return jsonify({'data': villager_lookup(name)})
 
 
 def get_villagers():
@@ -132,13 +133,14 @@ if __name__ == '__main__':
     # for v in ["Stitches", "Cube", "Apollo", "Apple", "Bob", "Bud", "Octavian"]:
     #     print(f"{v}:\n{villager_lookup(v)}")
 
-    # Get Critters Test!
+    # Test critter lookup
     # print(critter_lookup("Goldfish", "fish"))
     # print()
     # print(critter_lookup("Goliath Beetle", "bug"))
     # print()
     # print(critter_lookup("bee", "bug"))
 
+    # Test Get Critters!
     # print(get_critters())
 
     villager_data = get_villagers()

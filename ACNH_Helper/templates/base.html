@@ -26,18 +26,21 @@
 
                             {# Title #}
                             <a class='h1 no_ul text-white mx-3 title' href='/'>Island Tracker (Nook Inc.) </a>
+
                         </div>
 
                         {# Nav btns & search #}
                         <div class="d-flex justify-content-end my-2">
+                            {% block extra %}{% endblock %}
                             <div class="d-flex my-auto">
+
                                 <form action="{% url 'search_all' %}" style="display: none;" id="search-form"></form>
-                                    <div class="input-group">
-                                        <input form="search-form" type="text" class="form-control" name="q" placeholder="Search" aria-label="Search" aria-describedby="basic-addon2">
-                                        <div class="input-group-append">
-                                            <button form="search-form" class="btn btn-secondary" type="submit"><i class="fas fa-search"></i></button>
-                                        </div>
+                                <div class="input-group">
+                                    <input form="search-form" type="text" class="form-control" name="q" placeholder="Search" aria-label="Search" aria-describedby="basic-addon2">
+                                    <div class="input-group-append">
+                                        <button form="search-form" class="btn btn-secondary" type="submit"><i class="fas fa-search"></i></button>
                                     </div>
+                                </div>
 
                             </div>
                             {% if user.is_authenticated %}
@@ -84,8 +87,8 @@
     <!-- Footer!! -->
     <footer id="footer" class="w-100 text-center p-4 rounded-top bg-lblue">
         <div class="d-flex justify-content-center w-100 my-auto">
-<!--            <span class="text-muted mx-3">Animal Crossing: New Horizons Tracker!</span>-->
-            <a class="no_ul text-muted mx-3" href="https://github.com/AcidicNic"><i class="fab fa-github"></i> AcidicNic</a>
+            <span class="text-muted mx-2">Not affiliated with Nintendo or Nook Inc.</span>
+            <a class="no_ul text-muted mx-2" href="https://github.com/AcidicNic"><i class="fab fa-github"></i> AcidicNic</a>
         </div>
     </footer>
 

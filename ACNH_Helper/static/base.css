@@ -67,6 +67,16 @@
     width: 20vw;
     height: 20vw;
 }
+.profile-img-div-sm {
+    width: 7vw;
+    height: 7vw;
+    overflow: hidden;
+    border: solid 1px;
+}
+.profile-img-sm {
+    width: 7vw;
+    height: 7vw;
+}
 
 body {
     background-color: #a7eeff;
